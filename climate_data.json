@@ -1,0 +1,189 @@
+[
+ {
+  "longitude": -110.72875000000002,
+  "latitude": 32.37075,
+  "historical": {
+   "meanTemp": 13.46175,
+   "meanPerc": 572.0550000000001
+  },
+  "modern": {
+   "meanTemp": 14.529374999999998,
+   "meanPerc": 534.179875
+  },
+  "absolute": {
+   "meanTemp": 1.0675,
+   "meanPerc": -37.875125000000004
+  },
+  "site": "Tucson"
+ },
+ {
+  "longitude": 116.5375,
+  "latitude": 6.061999999999999,
+  "historical": {
+   "meanTemp": 14.308000000000002,
+   "meanPerc": 2129.4517
+  },
+  "modern": {
+   "meanTemp": 14.532900000000001,
+   "meanPerc": 2290.2253
+  },
+  "absolute": {
+   "meanTemp": 0.2253,
+   "meanPerc": 160.77349999999996
+  },
+  "site": "Mount Kinabalu, Sabah"
+ },
+ {
+  "longitude": 8.995863492063492,
+  "latitude": 61.486666666666615,
+  "historical": {
+   "meanTemp": -2.065558730158731,
+   "meanPerc": 705.7888666666673
+  },
+  "modern": {
+   "meanTemp": -0.5653269841269843,
+   "meanPerc": 821.2821936507936
+  },
+  "absolute": {
+   "meanTemp": 1.5002444444444454,
+   "meanPerc": 115.49332380952387
+  },
+  "site": "Geovekst and Norwegian municipalities"
+ },
+ {
+  "longitude": -74.7388,
+  "latitude": -9.4336,
+  "historical": {
+   "meanTemp": 21.222,
+   "meanPerc": 1776.6155999999999
+  },
+  "modern": {
+   "meanTemp": 21.399800000000003,
+   "meanPerc": 1646.9667999999997
+  },
+  "absolute": {
+   "meanTemp": 0.17819999999999997,
+   "meanPerc": -129.64899999999997
+  },
+  "site": "Huanuco"
+ },
+ {
+  "longitude": 142.81986486486488,
+  "latitude": -6.5832972972973,
+  "historical": {
+   "meanTemp": 17.58721621621622,
+   "meanPerc": 3332.579648648649
+  },
+  "modern": {
+   "meanTemp": 17.90302702702703,
+   "meanPerc": 3186.0776486486493
+  },
+  "absolute": {
+   "meanTemp": 0.3158378378378378,
+   "meanPerc": -146.5019189189189
+  },
+  "site": "Mt. Karimui northwestern ridge"
+ },
+ {
+  "longitude": 5.1416666666666675,
+  "latitude": 43.10111111111112,
+  "historical": {
+   "meanTemp": 6.4715185185185184,
+   "meanPerc": 979.0883333333333
+  },
+  "modern": {
+   "meanTemp": 6.9275925925925925,
+   "meanPerc": 935.2915925925926
+  },
+  "absolute": {
+   "meanTemp": 0.456111111111111,
+   "meanPerc": -43.79685185185184
+  },
+  "site": "south-western Alps"
+ },
+ {
+  "longitude": -0.34469230769230774,
+  "latitude": 39.260000000000005,
+  "historical": {
+   "meanTemp": 10.765923076923077,
+   "meanPerc": 687.7922307692307
+  },
+  "modern": {
+   "meanTemp": 11.206538461538461,
+   "meanPerc": 669.614923076923
+  },
+  "absolute": {
+   "meanTemp": 0.44069230769230777,
+   "meanPerc": -18.177076923076925
+  },
+  "site": "Sierra Nevada"
+ },
+ {
+  "longitude": -5.702672268907562,
+  "latitude": 43.19600000000003,
+  "historical": {
+   "meanTemp": 9.60635294117647,
+   "meanPerc": 944.5902100840337
+  },
+  "modern": {
+   "meanTemp": 9.88142857142857,
+   "meanPerc": 915.3675882352936
+  },
+  "absolute": {
+   "meanTemp": 0.2750588235294117,
+   "meanPerc": -29.22254621848739
+  },
+  "site": "Asturias"
+ },
+ {
+  "longitude": 48.96233333333333,
+  "latitude": -14.135666666666665,
+  "historical": {
+   "meanTemp": 14.568333333333333,
+   "meanPerc": 1505.689
+  },
+  "modern": {
+   "meanTemp": 14.863333333333335,
+   "meanPerc": 1510.8086666666666
+  },
+  "absolute": {
+   "meanTemp": 0.2946666666666667,
+   "meanPerc": 5.12
+  },
+  "site": "Tsaratanana Massif "
+ },
+ {
+  "longitude": -83.6543870967742,
+  "latitude": 35.620774193548385,
+  "historical": {
+   "meanTemp": 11.45790322580645,
+   "meanPerc": 1503.8682580645168
+  },
+  "modern": {
+   "meanTemp": 11.932612903225806,
+   "meanPerc": 1608.661064516129
+  },
+  "absolute": {
+   "meanTemp": 0.4745806451612903,
+   "meanPerc": 104.79274193548387
+  },
+  "site": "Tennessee portion of Great Smoky Mountains National Park"
+ },
+ {
+  "longitude": -83.65161538461538,
+  "latitude": 34.78738461538462,
+  "historical": {
+   "meanTemp": 12.432923076923077,
+   "meanPerc": 1740.6350769230771
+  },
+  "modern": {
+   "meanTemp": 12.970538461538464,
+   "meanPerc": 1768.5744615384613
+  },
+  "absolute": {
+   "meanTemp": 0.5375384615384615,
+   "meanPerc": 27.93938461538462
+  },
+  "site": "Appalachian Mountains in north Georgia"
+ }
+]
