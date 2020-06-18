@@ -1,0 +1,79 @@
+body {
+  background-color: #1f1f14;
+}
+p {
+  font-family: Arial;
+  font-style: normal;
+  font-size: 17px;
+  color: white;
+  text-indent: initial;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+div.worldmap {
+  width: 100%;
+  background-color: #1f1f14;
+  height: 600px;
+}
+p#header {
+  padding: 15px 5px 0px 5px;
+  font-family: Arial;
+  font-style: bold;
+
+}
+div.map {
+  float: left;
+  width: 80%;
+}
+div.mapSelection {
+  float: left;
+  width: 20%;
+}
+div.intro {
+
+  width: 100%;
+  height:256;
+  background-color: #1f1f14;
+}
+
+h1.header {
+  padding: 15px 5px 0px 5px;
+  font-family: Arial;
+  text-shadow: 2px;
+  color: white;
+  text-align: center;
+}
+
+select {
+  width: 265px;
+  height: 50px;
+  position: relative;
+  font-family: Arial;
+  font-size: 15px;
+  color: white;
+  background-color: #7a7a52;
+  padding: 10px 5px 10px 5px;
+  border: 6px solid transparent;
+}
+
+#svgBar {
+  padding: 15px 15px 15px 15px;
+  background-color: #1f1f14;
+}
+
+#yAxis line, path{
+  stroke: white;
+}
+
+#xAxis line, path{
+  stroke: white;
+}
+
+#yAxis text {
+  fill: white;
+}
+
+.bargraph {
+  width: 100%;
+  background-color: #1f1f14;
+}

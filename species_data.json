@@ -1,0 +1,6778 @@
+{
+ "species": [
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.34500000000000003,
+   "name": "Agave schottii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Arceuthobium vaginatum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.15919999999999998,
+   "name": "Arctostaphylos pungens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.4151666666666667,
+   "name": "Aristida ternipes var. ternipes"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.2982,
+   "name": "Bouteloua curtipendula"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.2715,
+   "name": "Brickellia californica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.1698,
+   "name": "Ceanothus fendleri"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.2982,
+   "name": "Dasylirion wheeleri"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.18233333333333332,
+   "name": "Garrya wrightii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.2715,
+   "name": "Juniperus deppeana var. deppeana"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.2715,
+   "name": "Lotus greenei"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.4151666666666667,
+   "name": "Mimosa aculeaticarpa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.2802857142857143,
+   "name": "Muhlenbergia emersleyi"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.476,
+   "name": "Muhlenbergia porteri"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.2715,
+   "name": "Nolina microcarpa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.18816666666666668,
+   "name": "Packera neomexicana"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Pinus strobiformis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Pseudotsuga menzesii var. glauca"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Pteridum aquilinum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.18816666666666668,
+   "name": "Quercus arizonica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.16449999999999998,
+   "name": "Quercus emoryi"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Quercus gambelii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Quercus hypoleucoides"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19025,
+   "name": "Robinia neomexicana"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.1698,
+   "name": "Thalictrum fendleri"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.55025,
+   "name": "Urochloa arizonica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "North America",
+   "code": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.15919999999999998,
+   "name": "Yucca madrensis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.22124999999999997,
+   "name": "Abaciscus tristis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "Abraxas intervacuata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "Abraxas invasata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.3165,
+   "name": "Achrosis lithosiaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    6,
+    7
+   ],
+   "ext_freq": 0.21399999999999997,
+   "name": "Achrosis recitata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.18399999999999997,
+   "name": "Achrosis rigorata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.13266666666666668,
+   "name": "Acolutha albipunctata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5
+   ],
+   "ext_freq": 0.16799999999999998,
+   "name": "Acolutha flavivittata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    5
+   ],
+   "ext_freq": 0.302,
+   "name": "Agathia succedanea "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.16679999999999998,
+   "name": "Alcis maculata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Alcis praevariegata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.22124999999999997,
+   "name": "Amblychia cavimargo "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.22299999999999998,
+   "name": "Amblychia infoveata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4,
+    5
+   ],
+   "ext_freq": 0.26299999999999996,
+   "name": "Antimimistis attenuata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    7
+   ],
+   "ext_freq": 0.079,
+   "name": "Apophyga altapona "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2
+   ],
+   "ext_freq": 0.24,
+   "name": "Apophyga apona "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.18399999999999997,
+   "name": "Astygisa waterstradti "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.27240000000000003,
+   "name": "Axinoptera penataran "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Berta anteplaga "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Borbacha altipardaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Bornealcis expleta"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    9,
+    6,
+    7
+   ],
+   "ext_freq": 0.1035,
+   "name": "Bornealcis versicolor "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Brabira emerita"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    6
+   ],
+   "ext_freq": 0.26766666666666666,
+   "name": "Bracca maculosa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5,
+    6
+   ],
+   "ext_freq": 0.14066666666666663,
+   "name": "Calletaera subexpressa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "Calletaera subgravata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    7
+   ],
+   "ext_freq": 0.15774999999999997,
+   "name": "Carbia calefacta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.14339999999999997,
+   "name": "Catoria proicyrta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Chloroclystis obturgescens "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Chorodna pseudobolima "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    5,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.16616666666666666,
+   "name": "Cleora mjoebergi "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    5,
+    7
+   ],
+   "ext_freq": 0.24500000000000002,
+   "name": "Cleora pendleburyi "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Cleora tenebrata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.21874999999999997,
+   "name": "Collix blosyra "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    5,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.18019999999999997,
+   "name": "Collix intrepida "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.21874999999999997,
+   "name": "Collix mesopora "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.14339999999999997,
+   "name": "Comibaena albimarginata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Comostola orestias "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4
+   ],
+   "ext_freq": 0.311,
+   "name": "Comostola turgescens "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "Cyclophora carsoni "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3
+   ],
+   "ext_freq": 0.35000000000000003,
+   "name": "Cyclophora dimerites "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Cyclophora hirtipalpis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.2042,
+   "name": "Cyclophora lowi "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "ext_freq": 0.18874999999999997,
+   "name": "Dalima mjoebergi "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "Dalima patularia "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Dasyboarmia delineata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.17499999999999996,
+   "name": "Dasyboarmia isorropha "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19899999999999998,
+   "name": "Dindica alaopis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    5,
+    6
+   ],
+   "ext_freq": 0.24640000000000004,
+   "name": "Diplurodes submontana "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    7,
+    8
+   ],
+   "ext_freq": 0.2262,
+   "name": "Diplurodes sugillata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5
+   ],
+   "ext_freq": 0.16799999999999998,
+   "name": "Dooabia lunifera "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.12524999999999997,
+   "name": "Dooabia plana "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6
+   ],
+   "ext_freq": 0.091,
+   "name": "Dooabia puncticostata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.08700000000000001,
+   "name": "Dysstroma pendleburyi"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.15483333333333332,
+   "name": "Ecliptopera furvoides "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Ectropis longiscapia "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Ectropis pais "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    5,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.18019999999999997,
+   "name": "Episteira vacuefacta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.3585,
+   "name": "Eriopithex lanaris "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Eucyclodes discata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.477,
+   "name": "Eupithecia costalis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    5,
+    8,
+    9,
+    10
+   ],
+   "ext_freq": 0.193,
+   "name": "Eupithecia kamburonga"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4,
+    5
+   ],
+   "ext_freq": 0.26299999999999996,
+   "name": "Eupithecia melanolopha "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Eupithecia mundiscripta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.15949999999999998,
+   "name": "Fascellina albicordis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.12399999999999997,
+   "name": "Fascellina altiplagiata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.25725,
+   "name": "Fascellina plagiata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.3585,
+   "name": "Fritillerinnys clathraria"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.13266666666666668,
+   "name": "Garaeus altapicata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Garaeus apicata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.15949999999999998,
+   "name": "Garaeus u-lucens "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Gasterocome pannosaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Godonela avitusaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5,
+    6
+   ],
+   "ext_freq": 0.22474999999999998,
+   "name": "Godonela nora"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.3585,
+   "name": "Gymnoscelis fasciata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.27240000000000003,
+   "name": "Herochroma urapteraria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Heterolocha polymorphoides "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.22124999999999997,
+   "name": "Hypochrosis albodecorata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.27240000000000003,
+   "name": "Hypochrosis binexata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5
+   ],
+   "ext_freq": 0.16799999999999998,
+   "name": "Hypochrosis cryptopyrrhata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Hypochrosis hyadaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    6
+   ],
+   "ext_freq": 0.2815,
+   "name": "Hypochrosis sternaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.3165,
+   "name": "Hypochrosis waterstradti "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    5,
+    7
+   ],
+   "ext_freq": 0.2173333333333333,
+   "name": "Hypocometa clauda "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24160000000000004,
+   "name": "Hypocometa leptomita "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.12100000000000001,
+   "name": "Hypocometa titanis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5
+   ],
+   "ext_freq": 0.16799999999999998,
+   "name": "Hypomecis glochinophora "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Hypomecis lioptilaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    3,
+    5,
+    6
+   ],
+   "ext_freq": 0.1585,
+   "name": "Idaea themeropis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6
+   ],
+   "ext_freq": 0.091,
+   "name": "Idiochlora berwicki "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.08700000000000001,
+   "name": "Idiochlora stictogramma"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5,
+    6
+   ],
+   "ext_freq": 0.22474999999999998,
+   "name": "Krananda semihyalina"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Lassaba vinacea "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    6
+   ],
+   "ext_freq": 0.18066666666666664,
+   "name": "Lomographa luciferata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5,
+    7
+   ],
+   "ext_freq": 0.22299999999999998,
+   "name": "Lophobates mesotoechia"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.28650000000000003,
+   "name": "lophophelma erionoma "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "lophophelma luteipes "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "lophophelma rubroviridata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "lophophelma vigens "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.25725,
+   "name": "Luxiaria amasa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Luxiaria emphatica "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Luxiaria hyalodela "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Luxiaria mitorrhaphes "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    6
+   ],
+   "ext_freq": 0.2815,
+   "name": "Luxiaria subrasata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Luxiaria tephrosaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.156,
+   "name": "Maxates thetydaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.3585,
+   "name": "Maxates waterstradti"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6
+   ],
+   "ext_freq": 0.091,
+   "name": "Milionia fulgida "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.156,
+   "name": "Milionia pendleburyi "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.15949999999999998,
+   "name": "Mixochlora vittata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19899999999999998,
+   "name": "Myrioblephara bifida "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Myrioblephara geniculata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Myrioblephara simplaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5
+   ],
+   "ext_freq": 0.16799999999999998,
+   "name": "Nadagara synocha"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.08700000000000001,
+   "name": "Necyopa chloana"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Necyopa subtriangula"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.28650000000000003,
+   "name": "Noreia anacardium "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.27240000000000003,
+   "name": "Omiza herois"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.22299999999999998,
+   "name": "Omiza lycoraria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4
+   ],
+   "ext_freq": 0.311,
+   "name": "Onagrodes oosyndica "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.18275,
+   "name": "Organopoda cnecosticta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5,
+    6
+   ],
+   "ext_freq": 0.14066666666666663,
+   "name": "Ornithospila submonstrans "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5,
+    6
+   ],
+   "ext_freq": 0.14066666666666663,
+   "name": "Ornithospila succincta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Orthocabera similaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19559999999999997,
+   "name": "Ourapteryx claretta"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.27240000000000003,
+   "name": "Ourapteryx incaudata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.3585,
+   "name": "Ourapteryx picticaudata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    6
+   ],
+   "ext_freq": 0.2815,
+   "name": "Oxymacaria temeraria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Ozola apparata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Ozola falcipennis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Ozola submontana"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    7
+   ],
+   "ext_freq": 0.079,
+   "name": "Papuarisme lagadani"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.18275,
+   "name": "Papuarisme murudensis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    6
+   ],
+   "ext_freq": 0.16299999999999998,
+   "name": "Papuarisme submontana "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    5
+   ],
+   "ext_freq": 0.2865,
+   "name": "Paramaxates posterecta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.10200000000000001,
+   "name": "Pasiphila chlorocampsis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    9,
+    10,
+    7
+   ],
+   "ext_freq": 0.11775000000000001,
+   "name": "Pasiphila coelica "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    6,
+    7
+   ],
+   "ext_freq": 0.08249999999999999,
+   "name": "Pasiphila eurystalides "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.095,
+   "name": "Pasiphila luteata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.11920000000000001,
+   "name": "Pasiphila palpata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.13266666666666668,
+   "name": "Pasiphila rubrifusa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Pasiphila rufogrisea "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    9,
+    10,
+    7
+   ],
+   "ext_freq": 0.11775000000000001,
+   "name": "Pasiphila sayata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.2805,
+   "name": "Pasiphila subpalpata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Pelagodes falsaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.15949999999999998,
+   "name": "Peratophyga sobrina "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2
+   ],
+   "ext_freq": 0.24,
+   "name": "Peratophyga trigonata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24160000000000004,
+   "name": "Perixera absconditaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.19242857142857142,
+   "name": "Petelia delostigma"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4,
+    5
+   ],
+   "ext_freq": 0.26299999999999996,
+   "name": "Petelia medardaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "ext_freq": 0.10883333333333334,
+   "name": "Phthonoloba altissima "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    6
+   ],
+   "ext_freq": 0.086,
+   "name": "Phthonoloba caliginosa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5,
+    7,
+    8
+   ],
+   "ext_freq": 0.2022,
+   "name": "Phthonoloba lutosa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.13266666666666668,
+   "name": "Phthonoloba stigmatephora "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6
+   ],
+   "ext_freq": 0.091,
+   "name": "Pingasa lariaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.2805,
+   "name": "Pingasa rubimontana "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    5,
+    6
+   ],
+   "ext_freq": 0.21966666666666665,
+   "name": "Pingasa ruginaria"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Pingasa tapungkanana"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    2,
+    6,
+    7
+   ],
+   "ext_freq": 0.13099999999999998,
+   "name": "Platycerota balia "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19559999999999997,
+   "name": "Platycerota percrinita"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.25725,
+   "name": "Plutodes flavescens "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Poecilasthena character "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "ext_freq": 0.11139999999999999,
+   "name": "Poecilasthena nubivaga"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5,
+    6
+   ],
+   "ext_freq": 0.14066666666666663,
+   "name": "Pogonopygia nigralbata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Pogonopygia xanthura "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Pomasia salutaris"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    9
+   ],
+   "ext_freq": 0.2115714285714286,
+   "name": "Problepsis borneamagna "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.477,
+   "name": "Problepsis plenorbis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Prochasma dentilinea "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4
+   ],
+   "ext_freq": 0.311,
+   "name": "Pseudeuchromia maculifera "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.215,
+   "name": "Pseudocollix hyperythra "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.25725,
+   "name": "Psilalcis bisinuata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.1938571428571428,
+   "name": "Racotis boarmiaria"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.223,
+   "name": "Sarcinodes reductatus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4
+   ],
+   "ext_freq": 0.216,
+   "name": "Sauris denigrata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24160000000000004,
+   "name": "Sauris usta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4
+   ],
+   "ext_freq": 0.342,
+   "name": "Scopula leucopis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    4
+   ],
+   "ext_freq": 0.3465,
+   "name": "Scopula pauperata "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4
+   ],
+   "ext_freq": 0.342,
+   "name": "Scopula voluptaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.27240000000000003,
+   "name": "Spaniocentra apatelloides "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.16199999999999998,
+   "name": "Syncosmia discisuffusa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Syncosmia eurymesa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    8,
+    6,
+    7
+   ],
+   "ext_freq": 0.09466666666666666,
+   "name": "Syncosmia layanga "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24160000000000004,
+   "name": "Syncosmia xanthocomes "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Synegia decolorata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.21814285714285717,
+   "name": "Synegia obscura "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.16679999999999998,
+   "name": "Synegia ocellata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.08700000000000001,
+   "name": "Synegia punctinervis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    6
+   ],
+   "ext_freq": 0.20950000000000002,
+   "name": "Synegiodes diffusifascia"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.19899999999999998,
+   "name": "Tanaorhinus rafflesii "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    5
+   ],
+   "ext_freq": 0.16799999999999998,
+   "name": "Tasta elliptica "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.2028333333333333,
+   "name": "Tasta montana "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.15949999999999998,
+   "name": "Thalassodes curiosa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.3165,
+   "name": "Timandra punctinervis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.13266666666666668,
+   "name": "Trichopterigia sanguinipunctata"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    6,
+    7
+   ],
+   "ext_freq": 0.15524999999999997,
+   "name": "Tripteridia dinosia "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.156,
+   "name": "Tripteridia latistriga "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4
+   ],
+   "ext_freq": 0.22799999999999998,
+   "name": "Tripteridia subcomosa "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.18399999999999997,
+   "name": "Tristeirometa bathylima"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.3165,
+   "name": "Tristeirometa bostryx "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.19733333333333336,
+   "name": "Tympanota arfakensis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.24133333333333337,
+   "name": "Tympanota ceramica "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "ext_freq": 0.10200000000000001,
+   "name": "Tympanota erecta "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "ext_freq": 0.19419999999999998,
+   "name": "Xandrames latiferaria"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    5,
+    6,
+    7
+   ],
+   "ext_freq": 0.08700000000000001,
+   "name": "Xanthorhoe liwagu "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    3,
+    5,
+    6,
+    7,
+    8
+   ],
+   "ext_freq": 0.1426,
+   "name": "Xanthorhoe mesilauensis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Xerodes ypsaria "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Asia",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.27099999999999996,
+   "name": "Zamarada baliata "
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    107,
+    213,
+    319
+   ],
+   "ext_freq": 0.0,
+   "name": "Achillea millefolium"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    320,
+    108,
+    214
+   ],
+   "ext_freq": 0.0,
+   "name": "Aconitum lycoctonum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    321,
+    109,
+    215
+   ],
+   "ext_freq": 0.0,
+   "name": "Agrostis capillaris"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    216,
+    322,
+    110
+   ],
+   "ext_freq": 0.0,
+   "name": "Agrostis mertensii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    217,
+    323,
+    111
+   ],
+   "ext_freq": 0.0,
+   "name": "Alchemilla alpina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    112,
+    218,
+    324
+   ],
+   "ext_freq": 0.0,
+   "name": "Alchemilla vulgaris"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    113,
+    219,
+    325
+   ],
+   "ext_freq": 0.0,
+   "name": "Andromeda polifolia"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    114,
+    220,
+    326
+   ],
+   "ext_freq": 0.0,
+   "name": "Angelica archangelica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    115,
+    221,
+    327
+   ],
+   "ext_freq": 0.0,
+   "name": "Antennaria alpina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    328,
+    116,
+    222
+   ],
+   "ext_freq": 0.0,
+   "name": "Antennaria dioica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    329,
+    117,
+    223
+   ],
+   "ext_freq": 0.0,
+   "name": "Anthoxanthum odoratum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    224,
+    330,
+    118
+   ],
+   "ext_freq": 0.0,
+   "name": "Arctostaphylos uva-ursi"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    225,
+    331,
+    119
+   ],
+   "ext_freq": 0.0,
+   "name": "Arctous alpinus"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    120,
+    226,
+    332
+   ],
+   "ext_freq": 0.0,
+   "name": "Astragalus alpinus"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    121,
+    227,
+    333
+   ],
+   "ext_freq": 0.0,
+   "name": "Avenella flexuosa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    122,
+    228,
+    334
+   ],
+   "ext_freq": 0.0,
+   "name": "Bartsia alpina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    123,
+    229,
+    335
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Beckwithia glacialis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    336,
+    124,
+    230
+   ],
+   "ext_freq": 0.0,
+   "name": "Betula nana"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    337,
+    125,
+    231
+   ],
+   "ext_freq": 0.0,
+   "name": "Betula pubescens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    232,
+    338,
+    126
+   ],
+   "ext_freq": 0.0,
+   "name": "Bistorta vivipara"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    233,
+    339,
+    127
+   ],
+   "ext_freq": 0.0,
+   "name": "Calamagrostis phragmitoides"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    128,
+    234,
+    340
+   ],
+   "ext_freq": 0.0,
+   "name": "Campanula rotundifolia"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    129,
+    235,
+    341
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex bigelowii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    130,
+    236,
+    342
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex canescens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    131,
+    237,
+    343
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex dioica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    344,
+    132,
+    238
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex lachenalii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    345,
+    133,
+    239
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex nigra"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    240,
+    346,
+    134
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex paupercula"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    241,
+    347,
+    135
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex rostrata"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    136,
+    242,
+    348
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Carex rupestris"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    137,
+    243,
+    349
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex saxatillis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    138,
+    244,
+    350
+   ],
+   "ext_freq": 0.0,
+   "name": "Carex vaginata"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    139,
+    245,
+    351
+   ],
+   "ext_freq": 0.0,
+   "name": "Cerastium alpinum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    352,
+    140,
+    246
+   ],
+   "ext_freq": 0.0,
+   "name": "Cerastium cerastoides"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    353,
+    141,
+    247
+   ],
+   "ext_freq": 0.0,
+   "name": "Cerastium fontanum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    248,
+    354,
+    142
+   ],
+   "ext_freq": 0.0,
+   "name": "Chamerion angustifolium"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    249,
+    355,
+    143
+   ],
+   "ext_freq": 0.0,
+   "name": "Cirsium heterophyllum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    144,
+    250,
+    356
+   ],
+   "ext_freq": 0.0,
+   "name": "Comarum palustre"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    145,
+    251,
+    357
+   ],
+   "ext_freq": 0.0,
+   "name": "Deschampsia cespitosa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    146,
+    252,
+    358
+   ],
+   "ext_freq": 0.0,
+   "name": "Empetrum nigrum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    147,
+    253,
+    359
+   ],
+   "ext_freq": 0.0,
+   "name": "Equisetum arvense"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    360,
+    148,
+    254
+   ],
+   "ext_freq": 0.0,
+   "name": "Equisetum fluviatile"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    361,
+    149,
+    255
+   ],
+   "ext_freq": 0.0,
+   "name": "Eriophorum angustifolium"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    256,
+    362,
+    150
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Euphrasia wettsteinii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    257,
+    363,
+    151
+   ],
+   "ext_freq": 0.0,
+   "name": "Festuca oving"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    152,
+    258,
+    364
+   ],
+   "ext_freq": 0.0,
+   "name": "Festuca rubra"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    153,
+    259,
+    365
+   ],
+   "ext_freq": 0.0,
+   "name": "Geranium sylvaticum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    154,
+    260,
+    366
+   ],
+   "ext_freq": 0.0,
+   "name": "Geum rivale"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    155,
+    261,
+    367
+   ],
+   "ext_freq": 0.0,
+   "name": "Gymnocarpium dryopteris"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    368,
+    156,
+    262
+   ],
+   "ext_freq": 0.0,
+   "name": "Hieracium sp."
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    369,
+    157,
+    263
+   ],
+   "ext_freq": 0.0,
+   "name": "Juncus biglumis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    264,
+    370,
+    158
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Juncus trifidus"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    265,
+    371,
+    159
+   ],
+   "ext_freq": 0.0,
+   "name": "Juniperus communis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    160,
+    266,
+    372
+   ],
+   "ext_freq": 0.0,
+   "name": "Leontodon autumnalis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    161,
+    267,
+    373
+   ],
+   "ext_freq": 0.0,
+   "name": "Loiseleuria procumbens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    162,
+    268,
+    374
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Luzula confusa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    163,
+    269,
+    375
+   ],
+   "ext_freq": 0.0,
+   "name": "Luzula multiflora"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    376,
+    164,
+    270
+   ],
+   "ext_freq": 0.0,
+   "name": "Luzula pilosa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    377,
+    165,
+    271
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Luzula spicata"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    272,
+    378,
+    166
+   ],
+   "ext_freq": 0.0,
+   "name": "Melampyrum sylvaticum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    273,
+    379,
+    167
+   ],
+   "ext_freq": 0.0,
+   "name": "Myosotis decumbens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    168,
+    274,
+    380
+   ],
+   "ext_freq": 0.0,
+   "name": "Nardus stricta"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    169,
+    275,
+    381
+   ],
+   "ext_freq": 0.0,
+   "name": "Omalotheca norvegica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    170,
+    276,
+    382
+   ],
+   "ext_freq": 0.0,
+   "name": "Omalotheca supina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    171,
+    277,
+    383
+   ],
+   "ext_freq": 0.0,
+   "name": "Oxycoccus sp."
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    384,
+    172,
+    278
+   ],
+   "ext_freq": 0.0,
+   "name": "Oxyria digyna"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    385,
+    173,
+    279
+   ],
+   "ext_freq": 0.0,
+   "name": "Pediculari oederi"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    280,
+    386,
+    174
+   ],
+   "ext_freq": 0.0,
+   "name": "Pedicularis lapponica"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    281,
+    387,
+    175
+   ],
+   "ext_freq": 0.0,
+   "name": "Pedicularis sceptrum-carolinum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    176,
+    282,
+    388
+   ],
+   "ext_freq": 0.0,
+   "name": "Phleum alpinum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    177,
+    283,
+    389
+   ],
+   "ext_freq": 0.0,
+   "name": "Phyllodoce caerulea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    178,
+    284,
+    390
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Poa alpina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    179,
+    285,
+    391
+   ],
+   "ext_freq": 0.0,
+   "name": "Poa pratensis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    392,
+    180,
+    286
+   ],
+   "ext_freq": 0.0,
+   "name": "Potentilla crantzii"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    393,
+    181,
+    287
+   ],
+   "ext_freq": 0.0,
+   "name": "Pulsatilla vernalis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    288,
+    394,
+    182
+   ],
+   "ext_freq": 0.0,
+   "name": "Pyrola minor"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    289,
+    395,
+    183
+   ],
+   "ext_freq": 0.0,
+   "name": "Ranunculus acris"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    184,
+    290,
+    396
+   ],
+   "ext_freq": 0.0,
+   "name": "Rhinathus minor"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    185,
+    291,
+    397
+   ],
+   "ext_freq": 0.0,
+   "name": "Rhodiola roea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    186,
+    292,
+    398
+   ],
+   "ext_freq": 0.0,
+   "name": "Rubus saxatilis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    187,
+    293,
+    399
+   ],
+   "ext_freq": 0.0,
+   "name": "Rumex acetosa"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    400,
+    188,
+    294
+   ],
+   "ext_freq": 0.0,
+   "name": "Salix glauca"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    401,
+    189,
+    295
+   ],
+   "ext_freq": 0.0,
+   "name": "Salix herbacea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    296,
+    402,
+    190
+   ],
+   "ext_freq": 0.0,
+   "name": "Salix lanata"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    297,
+    403,
+    191
+   ],
+   "ext_freq": 0.0,
+   "name": "Salix lapponum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    192,
+    298,
+    404
+   ],
+   "ext_freq": 0.0,
+   "name": "Salix myrsinites"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    193,
+    299,
+    405
+   ],
+   "ext_freq": 0.0,
+   "name": "Saussurea alpina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    194,
+    300,
+    406
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Saxifraga stellaris"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    195,
+    301,
+    407
+   ],
+   "ext_freq": 0.0,
+   "name": "Selaginella selaginoides"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    408,
+    196,
+    302
+   ],
+   "ext_freq": 0.0,
+   "name": "Sibbaldia procumbens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    409,
+    197,
+    303
+   ],
+   "ext_freq": 0.0,
+   "name": "Silene acaulis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    304,
+    410,
+    198
+   ],
+   "ext_freq": 0.0,
+   "name": "Solidago viraurea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    305,
+    411,
+    199
+   ],
+   "ext_freq": 0.0,
+   "name": "Stellaria borealis"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    200,
+    306,
+    412
+   ],
+   "ext_freq": 0.0,
+   "name": "Taraxacum sp."
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    202,
+    308,
+    414
+   ],
+   "ext_freq": 0.0,
+   "name": "Trientalis europaea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    203,
+    309,
+    415
+   ],
+   "ext_freq": 0.0,
+   "name": "Trifolium repens"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    416,
+    204,
+    310
+   ],
+   "ext_freq": 0.0,
+   "name": "Trisetum spicatum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    417,
+    205,
+    311
+   ],
+   "ext_freq": 0.0,
+   "name": "Vaccinium myrtillus"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    312,
+    418,
+    206
+   ],
+   "ext_freq": 0.0,
+   "name": "Vaccinium uliginosum"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    313,
+    419,
+    207
+   ],
+   "ext_freq": 0.0,
+   "name": "Vaccinium vitis-idaea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    208,
+    314,
+    420
+   ],
+   "ext_freq": 0.0,
+   "name": "Vahlodea atropurpurea"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    209,
+    315,
+    421
+   ],
+   "ext_freq": 0.0,
+   "name": "Valeriana sambucifolia"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    210,
+    316,
+    422
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Veronica alpina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    211,
+    317,
+    423
+   ],
+   "ext_freq": 0.0,
+   "name": "Viola caina"
+  },
+  {
+   "taxonomy": "Plant",
+   "geo_region": "Europe",
+   "code": [
+    424,
+    212,
+    318
+   ],
+   "ext_freq": 0.0,
+   "name": "Viola epipsila"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Adelomyia melanogenys"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    5
+   ],
+   "ext_freq": 0.0315,
+   "name": "Aglaiocercus kingi"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Arremon brunneinucha"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2
+   ],
+   "ext_freq": 0.125,
+   "name": "Aulacorhynchus derbianus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Basileuterus coronatus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Basileuterus tristriatus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2,
+    3
+   ],
+   "ext_freq": 0.09033333333333333,
+   "name": "Campylorhamphus trochilirostris"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.06266666666666666,
+   "name": "Catharus dryas"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    4
+   ],
+   "ext_freq": 0.063,
+   "name": "Cercomacra nigrescens"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.083,
+   "name": "Cercomacra serva"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.0315,
+   "name": "Chlorospingus ophtalmicus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.10400000000000001,
+   "name": "Chlorothraupis carmioli"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Coeligena coeligena"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Conopophaga castaneiceps"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Diglossa caerulescens"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.042,
+   "name": "Diglossa glauca"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2,
+    3
+   ],
+   "ext_freq": 0.09033333333333333,
+   "name": "Dixiphia pipra"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    4,
+    5
+   ],
+   "ext_freq": 0.06266666666666666,
+   "name": "Doryfera ludovicae"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Dysithamnus mentalis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.06266666666666666,
+   "name": "Entomodestes leucotis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.0668,
+   "name": "Euphonia xanthogaster"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2,
+    3
+   ],
+   "ext_freq": 0.09033333333333333,
+   "name": "Glyphorynchus spirurus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Haplophaedia aureliae"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Heliodoxa branickii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Heliodoxa leadbeateri"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.042,
+   "name": "Henicorhina leucophrys"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Iridisornis analis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    4
+   ],
+   "ext_freq": 0.063,
+   "name": "Knipolegus poecilurus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Lepidothrix caeroleocapilla"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.083,
+   "name": "Lepidothrix coronata"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2,
+    5
+   ],
+   "ext_freq": 0.06933333333333334,
+   "name": "Mionectes olivaceus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.0668,
+   "name": "Mionectes striaticollis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.042,
+   "name": "Myiarchus cephalotes"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Myiotriccus ornatus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Myrmotherula schisticolor"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    4
+   ],
+   "ext_freq": 0.094,
+   "name": "Ochreatus underwoodi"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.0315,
+   "name": "Ochthoecha pulchella"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.083,
+   "name": "Phaethornis superciliosus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.08366666666666667,
+   "name": "Philydor erythrocercum"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.0315,
+   "name": "Phylloscartes ventralis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.083,
+   "name": "Pipra chloromeros"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Pipreola riefferii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Platyrinchus mystaceus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Premnoplex brunnescens"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.042,
+   "name": "Pyrrhomyias cinnamomea"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.083,
+   "name": "Selenidera reindwartii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Syndactyla rufosuperciliata"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Syndactyla subalaris"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    4,
+    5
+   ],
+   "ext_freq": 0.0315,
+   "name": "Tangara vassorii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.083,
+   "name": "Thalurania furcata"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    1,
+    3
+   ],
+   "ext_freq": 0.07300000000000001,
+   "name": "Threnetes leucurus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.094,
+   "name": "Trichothraupis melanops"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "ext_freq": 0.06275,
+   "name": "Turdus serranus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    5
+   ],
+   "ext_freq": 0.06266666666666666,
+   "name": "Xenopipo unicolor"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "South America",
+   "code": [
+    2,
+    3,
+    4
+   ],
+   "ext_freq": 0.08366666666666667,
+   "name": "Xiphorhynchus triangularis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    17,
+    2,
+    4,
+    15
+   ],
+   "ext_freq": 0.3855,
+   "name": "Ailuroedus melanotis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    23,
+    21,
+    30,
+    7
+   ],
+   "ext_freq": 0.26675000000000004,
+   "name": "Aleadryas rufinucha"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    17,
+    26,
+    12,
+    33
+   ],
+   "ext_freq": 0.47425000000000006,
+   "name": "Amblyornis macgregoriae"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    11,
+    38,
+    22
+   ],
+   "ext_freq": 0.361,
+   "name": "Astrapia stephaniae"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    3,
+    38,
+    6
+   ],
+   "ext_freq": 0.2333333333333333,
+   "name": "Caligavis subfrenata"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    2,
+    3,
+    13
+   ],
+   "ext_freq": 0.21675,
+   "name": "Charmosyna pulchella"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    38,
+    36,
+    14,
+    6
+   ],
+   "ext_freq": 0.1215,
+   "name": "Cnemophilus loriae"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    3,
+    35,
+    33
+   ],
+   "ext_freq": 0.33125,
+   "name": "Coracina montana"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    38,
+    15
+   ],
+   "ext_freq": 0.31666666666666665,
+   "name": "Crateroscelis robusta"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    38,
+    33,
+    12,
+    17
+   ],
+   "ext_freq": 0.37425,
+   "name": "Epimachus fastosus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    35,
+    36,
+    9
+   ],
+   "ext_freq": 0.16399999999999998,
+   "name": "Erythrura trichroa "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    32,
+    25,
+    22,
+    33
+   ],
+   "ext_freq": 0.5095,
+   "name": "Eugerygone rubra "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    33,
+    27,
+    31
+   ],
+   "ext_freq": 0.247,
+   "name": "Eulacestoma nigropectus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    33,
+    29,
+    20,
+    4
+   ],
+   "ext_freq": 0.29075,
+   "name": "Gallicolumba beccarii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    17,
+    7
+   ],
+   "ext_freq": 0.38166666666666665,
+   "name": "Geoffroyus simplex"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    37,
+    25,
+    7
+   ],
+   "ext_freq": 0.255,
+   "name": "Gerygone ruficollis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    37,
+    38,
+    23
+   ],
+   "ext_freq": 0.05,
+   "name": "Ifrita kowaldi"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    1,
+    3,
+    25
+   ],
+   "ext_freq": 0.33,
+   "name": "Lophorina superba"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    1,
+    13,
+    22
+   ],
+   "ext_freq": 0.22575,
+   "name": "Machaerirhynchus nigripectus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    23,
+    21,
+    7
+   ],
+   "ext_freq": 0.35566666666666674,
+   "name": "Melanocharis striativentris"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    4,
+    5,
+    38
+   ],
+   "ext_freq": 0.08333333333333333,
+   "name": "Melanocharis versteri"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    26,
+    12,
+    30
+   ],
+   "ext_freq": 0.35566666666666674,
+   "name": "Melanorectes nigrescens"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    3,
+    38
+   ],
+   "ext_freq": 0.29,
+   "name": "Melidectes rufocrissalis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    2,
+    3,
+    23
+   ],
+   "ext_freq": 0.25925,
+   "name": "Melidectes torquatus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    23,
+    17,
+    6
+   ],
+   "ext_freq": 0.23625000000000002,
+   "name": "Meliphaga orientalis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    3,
+    38
+   ],
+   "ext_freq": 0.29,
+   "name": "Melipotes fumigatus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    35,
+    36,
+    20,
+    22
+   ],
+   "ext_freq": 0.186,
+   "name": "Microeca papuana "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    38
+   ],
+   "ext_freq": 0.185,
+   "name": "Myzomela rosenbergii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    38,
+    3,
+    6
+   ],
+   "ext_freq": 0.2333333333333333,
+   "name": "Oreocharis arfaki"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    17,
+    34,
+    36,
+    25
+   ],
+   "ext_freq": 0.22775,
+   "name": "Oreopsittacus arfaki"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    19,
+    3,
+    38
+   ],
+   "ext_freq": 0.16666666666666666,
+   "name": "Pachycephala schlegelii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    1,
+    20
+   ],
+   "ext_freq": 0.2316666666666667,
+   "name": "Pachycephala soror"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    12,
+    17
+   ],
+   "ext_freq": 0.4706666666666666,
+   "name": "Pachycephalopsis poliosoma "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    16,
+    12,
+    38,
+    31
+   ],
+   "ext_freq": 0.25,
+   "name": "Peneothello cyanus "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    33,
+    38
+   ],
+   "ext_freq": 0.2275,
+   "name": "Peneothello sigillata "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    2,
+    18,
+    22
+   ],
+   "ext_freq": 0.25,
+   "name": "Phylloscopus maforensis "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    18,
+    36,
+    38
+   ],
+   "ext_freq": 0.184,
+   "name": "Poecilodryas albonotata "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    17,
+    20,
+    33
+   ],
+   "ext_freq": 0.31833333333333336,
+   "name": "Psittacella brehmii"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    30,
+    33
+   ],
+   "ext_freq": 0.27499999999999997,
+   "name": "Ptilinopus rivoli"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    3,
+    38,
+    22
+   ],
+   "ext_freq": 0.2776666666666667,
+   "name": "Ptiloprora guisei"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    26,
+    10,
+    20,
+    30
+   ],
+   "ext_freq": 0.25625,
+   "name": "Ptilorrhoa leucosticta"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    2,
+    29,
+    33
+   ],
+   "ext_freq": 0.33125000000000004,
+   "name": "Rhagologus leucostigma"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    38,
+    6,
+    14
+   ],
+   "ext_freq": 0.06666666666666667,
+   "name": "Rhipidura albolimbata"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    34,
+    36
+   ],
+   "ext_freq": 0.21866666666666665,
+   "name": "Rhipidura atra"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    25,
+    26,
+    36,
+    38
+   ],
+   "ext_freq": 0.23399999999999999,
+   "name": "Rhipidura brachyrhyncha"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    10,
+    3,
+    4,
+    20
+   ],
+   "ext_freq": 0.34375,
+   "name": "Sericornis arfakianus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    8,
+    11,
+    38
+   ],
+   "ext_freq": 0.25,
+   "name": "Sericornis nouhuysi"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    25,
+    38
+   ],
+   "ext_freq": 0.125,
+   "name": "Sericornis papuensis"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    27,
+    25,
+    11,
+    21
+   ],
+   "ext_freq": 0.41675,
+   "name": "Sericornis perspicillatus"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    18,
+    3,
+    20,
+    31
+   ],
+   "ext_freq": 0.302,
+   "name": "Syma megarhyncha"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    24,
+    1
+   ],
+   "ext_freq": 0.28500000000000003,
+   "name": "Symposiachrus axillaris"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    26,
+    20,
+    29,
+    14
+   ],
+   "ext_freq": 0.21450000000000002,
+   "name": "Timeliopsis fulvigula"
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    1,
+    18,
+    15
+   ],
+   "ext_freq": 0.4566666666666667,
+   "name": "Tregellasia leucops "
+  },
+  {
+   "taxonomy": "Bird",
+   "geo_region": "Oceania (New Guinea))",
+   "code": [
+    8,
+    1,
+    11,
+    15
+   ],
+   "ext_freq": 0.4675,
+   "name": "Zoothera heinei "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    32,
+    9,
+    34,
+    11
+   ],
+   "ext_freq": 0.40025,
+   "name": "Acrossus depressus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    24,
+    9
+   ],
+   "ext_freq": 0.4015,
+   "name": "Acrossus luridus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    17,
+    18,
+    34
+   ],
+   "ext_freq": 0.16666666666666666,
+   "name": "Amidorus immaturus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    35,
+    21
+   ],
+   "ext_freq": 0.0,
+   "name": "Amidorus obscurus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    35,
+    4,
+    5
+   ],
+   "ext_freq": 0.0,
+   "name": "Ammoecius elevatus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    49,
+    44,
+    41,
+    39
+   ],
+   "ext_freq": 0.625,
+   "name": "Anoplotrupes stercorosus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    30,
+    33
+   ],
+   "ext_freq": 0.41100000000000003,
+   "name": "Aphodius fimetarius"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    35,
+    36,
+    38,
+    50,
+    53
+   ],
+   "ext_freq": 0.4166666666666667,
+   "name": "Aphodius foetidus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    51,
+    36,
+    53,
+    39
+   ],
+   "ext_freq": 0.45,
+   "name": "Aphodius satyrus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    44,
+    53,
+    36,
+    47
+   ],
+   "ext_freq": 0.58325,
+   "name": "Bubas bubalus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    44,
+    53,
+    38
+   ],
+   "ext_freq": 0.611,
+   "name": "Caccobius schreberi"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    51,
+    36,
+    53
+   ],
+   "ext_freq": 0.6,
+   "name": "Calamosternus granarius"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    34,
+    36,
+    39,
+    51,
+    53
+   ],
+   "ext_freq": 0.3833333333333333,
+   "name": "Colobopterus erraticus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    34,
+    35
+   ],
+   "ext_freq": 0.25,
+   "name": "Esymus pusillus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    8,
+    34,
+    19
+   ],
+   "ext_freq": 0.22233333333333336,
+   "name": "Euheptaulacus carinatus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    36,
+    39,
+    14,
+    51,
+    53,
+    28
+   ],
+   "ext_freq": 0.45183333333333336,
+   "name": "Eunoticellus fulvus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    36,
+    53,
+    39
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Euonthophagus amyntas"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    36,
+    39,
+    15,
+    51,
+    53,
+    28
+   ],
+   "ext_freq": 0.43333333333333335,
+   "name": "Euonthophagus gibbosus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    10,
+    35,
+    34
+   ],
+   "ext_freq": 0.16666666666666666,
+   "name": "Geotrupes stercorarius"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    40,
+    50,
+    51
+   ],
+   "ext_freq": 0.43333333333333335,
+   "name": "Melinopterus abeillei"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    8,
+    1,
+    12,
+    9
+   ],
+   "ext_freq": 0.0835,
+   "name": "Melinopterus prodromus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    10,
+    28
+   ],
+   "ext_freq": 0.26666666666666666,
+   "name": "Onthophagus baraudi"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    8,
+    33,
+    35
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Onthophagus coenobita"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    2,
+    36,
+    38,
+    10,
+    50,
+    53,
+    31
+   ],
+   "ext_freq": 0.42857142857142855,
+   "name": "Onthophagus fracticormi"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    6,
+    42,
+    14,
+    48,
+    53
+   ],
+   "ext_freq": 0.2685,
+   "name": "Onthophagus furcatus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    2,
+    35,
+    34
+   ],
+   "ext_freq": 0.125,
+   "name": "Onthophagus grossepunctatus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    26,
+    28,
+    25
+   ],
+   "ext_freq": 0.45,
+   "name": "Onthophagus joannae"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    36,
+    38,
+    51,
+    53,
+    24
+   ],
+   "ext_freq": 0.6872,
+   "name": "Onthophagus lemur"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    8,
+    1,
+    24
+   ],
+   "ext_freq": 0.26766666666666666,
+   "name": "Onthophagus ovatus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    42,
+    51,
+    36,
+    53
+   ],
+   "ext_freq": 0.7,
+   "name": "Onthophagus similis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    38,
+    9,
+    44,
+    15,
+    51,
+    53
+   ],
+   "ext_freq": 0.39999999999999997,
+   "name": "Onthophagus taurus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    36,
+    38,
+    15,
+    53,
+    24
+   ],
+   "ext_freq": 0.43933333333333335,
+   "name": "Onthophagus vacca"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    28,
+    30
+   ],
+   "ext_freq": 0.6000000000000001,
+   "name": "Onthophagus verticornis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    34,
+    27,
+    28
+   ],
+   "ext_freq": 0.6833333333333332,
+   "name": "Oromus alpinus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    34,
+    31
+   ],
+   "ext_freq": 0.3333333333333333,
+   "name": "Otophorus haemorrhoidalis "
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    36,
+    39,
+    14,
+    15,
+    48,
+    50
+   ],
+   "ext_freq": 0.3518333333333333,
+   "name": "Sisyphus schaefferi"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    34,
+    5,
+    33
+   ],
+   "ext_freq": 0.33325,
+   "name": "Teuchestes fossor"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    50,
+    51,
+    36,
+    39
+   ],
+   "ext_freq": 0.575,
+   "name": "Trichonotulus scrofa"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    24,
+    30
+   ],
+   "ext_freq": 0.518,
+   "name": "Trypcopris vernalis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    128,
+    129,
+    1,
+    9,
+    11,
+    23,
+    24,
+    30,
+    31,
+    32,
+    34,
+    41,
+    43,
+    50,
+    51,
+    61,
+    63,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    80,
+    84,
+    85,
+    86,
+    89,
+    92,
+    93,
+    97,
+    102,
+    104,
+    106,
+    107,
+    110,
+    114,
+    116,
+    117,
+    120,
+    123,
+    124,
+    125
+   ],
+   "ext_freq": 0.3614,
+   "name": "Bombus hortorum"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    9,
+    14,
+    16,
+    20,
+    29,
+    30,
+    46,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    79,
+    81,
+    86,
+    95,
+    96,
+    108
+   ],
+   "ext_freq": 0.23131999999999997,
+   "name": "Bombus humilis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    2,
+    4,
+    6,
+    10,
+    11,
+    14,
+    17,
+    19,
+    20,
+    24,
+    28,
+    59,
+    77,
+    79,
+    80,
+    81,
+    94,
+    109,
+    111,
+    118
+   ],
+   "ext_freq": 0.2386190476190476,
+   "name": "Bombus jonellus"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    3,
+    5,
+    6,
+    9,
+    10,
+    11,
+    14,
+    15,
+    16,
+    17,
+    18,
+    24,
+    36,
+    45,
+    52,
+    54,
+    57,
+    58,
+    59,
+    62,
+    63,
+    64,
+    77,
+    81,
+    83,
+    84,
+    85,
+    86,
+    87,
+    92,
+    96,
+    97,
+    101,
+    105,
+    107,
+    108,
+    115,
+    119,
+    126
+   ],
+   "ext_freq": 0.24819999999999998,
+   "name": "Bombus lapidarius"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    10,
+    11,
+    12,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    24,
+    26,
+    28,
+    32,
+    33,
+    42,
+    46,
+    52,
+    53,
+    54,
+    56,
+    59,
+    60,
+    62,
+    67,
+    68,
+    69,
+    70,
+    71,
+    73,
+    76,
+    77,
+    79,
+    80,
+    81,
+    83,
+    84,
+    86,
+    87,
+    92,
+    94,
+    95,
+    97,
+    105,
+    107,
+    109,
+    111,
+    117,
+    118,
+    125
+   ],
+   "ext_freq": 0.2941481481481481,
+   "name": "Bombus lucorum"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    129,
+    11,
+    17,
+    18,
+    19,
+    20,
+    24,
+    26,
+    28,
+    30,
+    31,
+    33,
+    41,
+    44,
+    47,
+    49,
+    52,
+    54,
+    56,
+    57,
+    59,
+    64,
+    77,
+    83,
+    84,
+    85,
+    87,
+    94,
+    98,
+    101,
+    103,
+    105,
+    107,
+    109,
+    115,
+    118,
+    119,
+    126
+   ],
+   "ext_freq": 0.45497368421052636,
+   "name": "Bombus mesomelas"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    105,
+    10,
+    11,
+    44,
+    13,
+    83,
+    52,
+    56,
+    59,
+    60,
+    94
+   ],
+   "ext_freq": 0.23124999999999998,
+   "name": "Bombus monticola"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    9,
+    11,
+    16,
+    17,
+    20,
+    26,
+    27,
+    33,
+    36,
+    38,
+    43,
+    48,
+    50,
+    51,
+    66,
+    68,
+    69,
+    70,
+    71,
+    72,
+    74,
+    75,
+    76,
+    77,
+    90,
+    91,
+    95,
+    98,
+    100,
+    102,
+    104,
+    114,
+    117,
+    123,
+    124,
+    125,
+    126
+   ],
+   "ext_freq": 0.527918918918919,
+   "name": "Bombus muscorum"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    130,
+    6,
+    20,
+    24,
+    27,
+    29,
+    30,
+    33,
+    34,
+    39,
+    45,
+    46,
+    47,
+    48,
+    50,
+    55,
+    65,
+    66,
+    67,
+    69,
+    70,
+    71,
+    81,
+    89,
+    93,
+    95,
+    96,
+    97,
+    104,
+    107,
+    108,
+    111,
+    113,
+    115,
+    117,
+    122,
+    123,
+    127
+   ],
+   "ext_freq": 0.4201052631578947,
+   "name": "Bombus pascuorum"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    129,
+    3,
+    4,
+    6,
+    7,
+    9,
+    10,
+    14,
+    24,
+    27,
+    28,
+    32,
+    33,
+    38,
+    50,
+    51,
+    53,
+    59,
+    65,
+    66,
+    67,
+    72,
+    73,
+    76,
+    79,
+    80,
+    81,
+    82,
+    84,
+    86,
+    87,
+    89,
+    90,
+    93,
+    106,
+    107,
+    109,
+    111,
+    116,
+    117,
+    123,
+    125
+   ],
+   "ext_freq": 0.38728571428571423,
+   "name": "Bombus pratorum"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    5,
+    107,
+    11,
+    108,
+    81,
+    20,
+    56,
+    124,
+    29
+   ],
+   "ext_freq": 0.33677777777777773,
+   "name": "Bombus ruderarius"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    13,
+    14,
+    17,
+    18,
+    19,
+    24,
+    44,
+    52,
+    56,
+    63,
+    64,
+    77,
+    79,
+    80,
+    81,
+    83,
+    84,
+    86,
+    87,
+    101,
+    105,
+    107,
+    118,
+    119
+   ],
+   "ext_freq": 0.1846875,
+   "name": "Bombus sichelii"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    10,
+    11,
+    14,
+    16,
+    17,
+    18,
+    20,
+    24,
+    30,
+    41,
+    52,
+    53,
+    57,
+    59,
+    64,
+    71,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    97,
+    105,
+    107,
+    108,
+    110,
+    111,
+    123
+   ],
+   "ext_freq": 0.20318421052631577,
+   "name": "Bombus soroeensis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    130,
+    11,
+    17,
+    20,
+    26,
+    29,
+    34,
+    36,
+    44,
+    46,
+    51,
+    52,
+    65,
+    70,
+    71,
+    72,
+    76,
+    77,
+    79,
+    95,
+    117,
+    125
+   ],
+   "ext_freq": 0.4446363636363637,
+   "name": "Bombus sylvarum"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    9,
+    10,
+    11,
+    17,
+    18,
+    19,
+    24,
+    26,
+    27,
+    33,
+    34,
+    36,
+    38,
+    43,
+    44,
+    49,
+    51,
+    54,
+    57,
+    60,
+    63,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    79,
+    80,
+    83,
+    84,
+    89,
+    91,
+    93,
+    95,
+    98,
+    99,
+    105,
+    107,
+    110,
+    113,
+    114,
+    117,
+    119,
+    123,
+    125,
+    127
+   ],
+   "ext_freq": 0.40763157894736846,
+   "name": "Bombus terrestris"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "Europe",
+   "code": [
+    1,
+    3,
+    10,
+    17,
+    20,
+    24,
+    28,
+    43,
+    44,
+    49,
+    53,
+    63,
+    70,
+    71,
+    76,
+    79,
+    80,
+    81,
+    83,
+    87,
+    93,
+    94,
+    105,
+    111,
+    118
+   ],
+   "ext_freq": 0.36228,
+   "name": "Bombus wurflenii"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Aglyptodactylus madagascariensis"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Amphiglossus melanopleura"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Amphiglosus tsaratananensis"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Blommersia cf. wittei"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Boophis anjanaharibensis"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Boophis cf. burgeri"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Boophis marojeziensis"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    2
+   ],
+   "ext_freq": 0.0,
+   "name": "Boophis sp. A"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Brookesia lolontany"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Calumma cf. guillaumeti"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Calumma cf. linota"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    2
+   ],
+   "ext_freq": 0.0,
+   "name": "Calumma guibe"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Calumma malthe"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Calumma peltierorum"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Calumma tsaratananensis"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Gephyromantis asper"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Gephyromantis tandroka"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2
+   ],
+   "ext_freq": 0.059,
+   "name": "Guibemantis liber"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Guibemantis sp. A"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Mantidactylus cf. opiparis"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    3
+   ],
+   "ext_freq": 0.059,
+   "name": "Mantidactylus femoralis"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Phelsuma lineata puctualata"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Platypelis alticola"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    3
+   ],
+   "ext_freq": 0.059,
+   "name": "Platypelis pollicaris"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1
+   ],
+   "ext_freq": 0.118,
+   "name": "Platypelis sp. F"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Platypelis sp. O"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    3
+   ],
+   "ext_freq": 0.059,
+   "name": "Plethodontohyla guntherpetersi"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Plethodontohyla sp. P"
+  },
+  {
+   "taxonomy": "Amphibian",
+   "geo_region": "Madagascar",
+   "code": [
+    1,
+    2,
+    3
+   ],
+   "ext_freq": 0.03933333333333333,
+   "name": "Spinomantis cf. peraccae"
+  },
+  {
+   "taxonomy": "Squamate",
+   "geo_region": "Madagascar",
+   "code": [
+    2,
+    3
+   ],
+   "ext_freq": 0.0,
+   "name": "Uroplatus sp. A"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "North America",
+   "code": [
+    3,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "ext_freq": 0.0,
+   "name": "Acroneuria abnormis"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "North America",
+   "code": [
+    32,
+    33,
+    3,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    21,
+    23,
+    26,
+    29
+   ],
+   "ext_freq": 0.0,
+   "name": "Acroneuria zanthenes"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "North America",
+   "code": [
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "ext_freq": 0.0,
+   "name": "Aphaenogaster picea"
+  },
+  {
+   "taxonomy": "Insect",
+   "geo_region": "North America",
+   "code": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "ext_freq": 0.0,
+   "name": "Aphaenogaster rudis"
+  }
+ ],
+ "taxonomy": [
+  {
+   "name": "Plant",
+   "ext_freq": 0.03703405572755418
+  },
+  {
+   "name": "Insect",
+   "ext_freq": 0.25990047393364935
+  },
+  {
+   "name": "Bird",
+   "ext_freq": 0.23559523809523814
+  },
+  {
+   "name": "Amphibian",
+   "ext_freq": 0.03933333333333333
+  },
+  {
+   "name": "Squamate",
+   "ext_freq": 0.03933333333333333
+  }
+ ]
+}
