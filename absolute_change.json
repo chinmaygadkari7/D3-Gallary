@@ -1,0 +1,1142 @@
+[
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio7",
+  "change": 0.45
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio15",
+  "change": -2.01
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio18",
+  "change": -14.91
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio3",
+  "change": -2.45
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio16",
+  "change": -5.48
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio12",
+  "change": 160.77
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio11",
+  "change": 0.17
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio4",
+  "change": 0.2
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio17",
+  "change": -6.36
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio4",
+  "change": 0.05
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio19",
+  "change": -29.87
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio10",
+  "change": 0.41
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio6",
+  "change": 1.71
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio3",
+  "change": -0.24
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio1",
+  "change": 0.28
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio16",
+  "change": -2.91
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio15",
+  "change": 2.31
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio4",
+  "change": -0.09
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio4",
+  "change": 0.0
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio7",
+  "change": -1.33
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio2",
+  "change": 0.22
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio12",
+  "change": -18.18
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio7",
+  "change": -1.91
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio1",
+  "change": 1.07
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio17",
+  "change": -16.87
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio9",
+  "change": 0.73
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio2",
+  "change": -1.03
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio14",
+  "change": -8.61
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio5",
+  "change": 0.56
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio2",
+  "change": 0.19
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio7",
+  "change": 0.41
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio11",
+  "change": 0.56
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio1",
+  "change": 1.5
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio13",
+  "change": 6.47
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio14",
+  "change": -0.05
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio17",
+  "change": -9.8
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio17",
+  "change": -11.88
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio5",
+  "change": 0.43
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio6",
+  "change": 1.33
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio9",
+  "change": 0.1
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio6",
+  "change": 0.21
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio6",
+  "change": 1.46
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio6",
+  "change": 0.19
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio8",
+  "change": 0.1
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio12",
+  "change": -37.86
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio17",
+  "change": -7.06
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio8",
+  "change": 0.12
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio6",
+  "change": 0.36
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio10",
+  "change": 0.02
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio7",
+  "change": 0.04
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio5",
+  "change": 0.57
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio8",
+  "change": 0.4
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio3",
+  "change": -0.05
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio10",
+  "change": 0.36
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio8",
+  "change": 0.38
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio5",
+  "change": 0.57
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio1",
+  "change": 0.45
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio8",
+  "change": 1.21
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio1",
+  "change": 0.46
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio13",
+  "change": 28.31
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio14",
+  "change": 0.28
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio2",
+  "change": 0.04
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio1",
+  "change": 0.54
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio16",
+  "change": -18.13
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio2",
+  "change": -0.63
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio18",
+  "change": -7.76
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio14",
+  "change": -1.14
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio4",
+  "change": 0.04
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio10",
+  "change": 0.21
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio16",
+  "change": 129.88
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio6",
+  "change": 0.05
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio12",
+  "change": -37.88
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio6",
+  "change": 1.87
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio9",
+  "change": 0.42
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio6",
+  "change": -0.15
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio19",
+  "change": 56.11
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio4",
+  "change": 0.04
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio16",
+  "change": -16.85
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio18",
+  "change": 9.94
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio4",
+  "change": -0.09
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio7",
+  "change": -0.34
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio8",
+  "change": 1.0
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio5",
+  "change": 0.1
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio5",
+  "change": 0.28
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio3",
+  "change": 0.41
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio12",
+  "change": 115.49
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio1",
+  "change": 0.32
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio17",
+  "change": -1.81
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio19",
+  "change": -27.29
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio3",
+  "change": -0.02
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio14",
+  "change": 1.46
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio10",
+  "change": 1.78
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio9",
+  "change": 0.11
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio11",
+  "change": 0.19
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio17",
+  "change": 32.98
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio14",
+  "change": 6.2
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio11",
+  "change": 0.24
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio15",
+  "change": -8.79
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio19",
+  "change": -12.83
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio7",
+  "change": -0.12
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio13",
+  "change": 0.23
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio13",
+  "change": 3.5
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio17",
+  "change": -2.06
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio19",
+  "change": -18.42
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio11",
+  "change": 0.15
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio16",
+  "change": 4.15
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio13",
+  "change": -26.69
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio9",
+  "change": 0.27
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio12",
+  "change": -29.22
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio8",
+  "change": 0.58
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio2",
+  "change": 0.0
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio18",
+  "change": -12.93
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio11",
+  "change": 0.21
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio5",
+  "change": 0.72
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio18",
+  "change": 102.96
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio7",
+  "change": -0.94
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio17",
+  "change": -30.31
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio8",
+  "change": 0.16
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio15",
+  "change": -0.65
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio11",
+  "change": 0.26
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio9",
+  "change": 1.77
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio19",
+  "change": -35.88
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio14",
+  "change": -0.51
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio4",
+  "change": 0.04
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio17",
+  "change": -5.79
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio2",
+  "change": 0.05
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio15",
+  "change": -1.14
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio5",
+  "change": -0.0
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio14",
+  "change": 0.61
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio13",
+  "change": -7.84
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio19",
+  "change": 13.45
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio1",
+  "change": 0.18
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio12",
+  "change": -146.5
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio2",
+  "change": 0.22
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio10",
+  "change": 0.31
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio8",
+  "change": 1.2
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio18",
+  "change": -16.29
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio19",
+  "change": -0.76
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio10",
+  "change": 0.75
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio12",
+  "change": 5.12
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio13",
+  "change": -4.2
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio13",
+  "change": -11.12
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio6",
+  "change": 0.06
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio8",
+  "change": -0.28
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio18",
+  "change": 20.69
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio14",
+  "change": 4.99
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio13",
+  "change": -7.03
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio17",
+  "change": 15.68
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio11",
+  "change": 0.01
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio17",
+  "change": 1.07
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio14",
+  "change": 6.23
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio15",
+  "change": -1.75
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio1",
+  "change": 0.29
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio10",
+  "change": 0.33
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio19",
+  "change": 71.62
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio7",
+  "change": -0.94
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio13",
+  "change": -14.98
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio19",
+  "change": 11.78
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio2",
+  "change": -0.54
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio5",
+  "change": -0.07
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio1",
+  "change": 0.23
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio9",
+  "change": 1.19
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio19",
+  "change": 4.79
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio13",
+  "change": -8.93
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio15",
+  "change": -10.24
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio7",
+  "change": 0.58
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio1",
+  "change": 0.44
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio3",
+  "change": -0.71
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio3",
+  "change": -0.12
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio15",
+  "change": -3.86
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio9",
+  "change": 1.02
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio2",
+  "change": 0.07
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio12",
+  "change": -129.65
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio5",
+  "change": 0.86
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio18",
+  "change": -0.86
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio16",
+  "change": -6.47
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio9",
+  "change": -0.18
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio11",
+  "change": 0.81
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio5",
+  "change": 0.09
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio3",
+  "change": 0.02
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio18",
+  "change": -93.36
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio18",
+  "change": -4.4
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio1",
+  "change": 0.47
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio3",
+  "change": 1.2
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio6",
+  "change": -0.14
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio18",
+  "change": 7.91
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio9",
+  "change": -1.18
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio16",
+  "change": -20.48
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio13",
+  "change": 43.19
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio7",
+  "change": 0.79
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio15",
+  "change": 1.65
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio14",
+  "change": 68.65
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio10",
+  "change": 1.3
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio4",
+  "change": -0.14
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio12",
+  "change": 27.94
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio8",
+  "change": 1.39
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio9",
+  "change": 0.89
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio4",
+  "change": 0.08
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio12",
+  "change": 105.03
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio15",
+  "change": 0.17
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio16",
+  "change": 21.73
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio8",
+  "change": 0.78
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio3",
+  "change": 0.14
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio16",
+  "change": 23.87
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio16",
+  "change": -38.72
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio11",
+  "change": 0.35
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio10",
+  "change": 0.34
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio2",
+  "change": 0.26
+ },
+ {
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "bio": "Bio9",
+  "change": 1.71
+ },
+ {
+  "locality": "Mt. Karimui northwestern ridge",
+  "bio": "Bio3",
+  "change": 2.61
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio7",
+  "change": 0.95
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio10",
+  "change": -0.11
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio11",
+  "change": 0.19
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio15",
+  "change": 4.61
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio12",
+  "change": -44.54
+ },
+ {
+  "locality": "Mount Kinabalu, Sabah",
+  "bio": "Bio10",
+  "change": 0.54
+ },
+ {
+  "locality": "Appalachian Mountains in north Georgia",
+  "bio": "Bio11",
+  "change": 1.09
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio3",
+  "change": 0.53
+ },
+ {
+  "locality": "Tucson",
+  "bio": "Bio15",
+  "change": 10.34
+ },
+ {
+  "locality": "Geovekst and Norwegian municipalities",
+  "bio": "Bio18",
+  "change": 37.24
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio14",
+  "change": -0.41
+ },
+ {
+  "locality": "south-western\u00a0Alps",
+  "bio": "Bio6",
+  "change": 0.1
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio4",
+  "change": -0.04
+ },
+ {
+  "locality": "Tsaratanana Massif ",
+  "bio": "Bio19",
+  "change": -1.17
+ },
+ {
+  "locality": "south-western Alps",
+  "bio": "Bio2",
+  "change": 0.24
+ },
+ {
+  "locality": "Asturias",
+  "bio": "Bio4",
+  "change": 0.03
+ },
+ {
+  "locality": "Huanuco",
+  "bio": "Bio5",
+  "change": -0.1
+ },
+ {
+  "locality": "Sierra Nevada",
+  "bio": "Bio16",
+  "change": -14.19
+ }
+]

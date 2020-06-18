@@ -1,0 +1,2762 @@
+[
+ {
+  "name": "Agave schottii",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Arceuthobium vaginatum",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Arctostaphylos pungens",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Aristida ternipes var. ternipes",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Bouteloua curtipendula",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Brickellia californica",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Ceanothus fendleri",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Dasylirion wheeleri",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Garrya wrightii",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Juniperus deppeana var. deppeana",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Lotus greenei",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Mimosa aculeaticarpa",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Muhlenbergia emersleyi",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Muhlenbergia porteri",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Nolina microcarpa",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Packera neomexicana",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Pinus strobiformis",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Pseudotsuga menzesii var. glauca",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Pteridum aquilinum",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Quercus arizonica",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Quercus emoryi",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Quercus gambelii",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Quercus hypoleucoides",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Robinia neomexicana",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Thalictrum fendleri",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Urochloa arizonica",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Yucca madrensis",
+  "locality": "Tucson",
+  "region": "North America"
+ },
+ {
+  "name": "Abaciscus tristis",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Abraxas intervacuata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Abraxas invasata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Achrosis lithosiaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Achrosis recitata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Achrosis rigorata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Acolutha albipunctata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Acolutha flavivittata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Agathia succedanea ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Alcis maculata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Alcis praevariegata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Amblychia cavimargo ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Amblychia infoveata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Antimimistis attenuata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Apophyga altapona ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Apophyga apona ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Astygisa waterstradti ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Axinoptera penataran ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Berta anteplaga ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Borbacha altipardaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Bornealcis expleta",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Bornealcis versicolor ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Brabira emerita",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Bracca maculosa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Calletaera subexpressa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Calletaera subgravata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Carbia calefacta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Catoria proicyrta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Chloroclystis obturgescens ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Chorodna pseudobolima ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cleora mjoebergi ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cleora pendleburyi ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cleora tenebrata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Collix blosyra ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Collix intrepida ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Collix mesopora ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Comibaena albimarginata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Comostola orestias ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Comostola turgescens ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cyclophora carsoni ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cyclophora dimerites ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cyclophora hirtipalpis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Cyclophora lowi ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dalima mjoebergi ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dalima patularia ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dasyboarmia delineata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dasyboarmia isorropha ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dindica alaopis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Diplurodes submontana ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Diplurodes sugillata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dooabia lunifera ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dooabia plana ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dooabia puncticostata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Dysstroma pendleburyi",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ecliptopera furvoides ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ectropis longiscapia ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ectropis pais ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Episteira vacuefacta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Eriopithex lanaris ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Eucyclodes discata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Eupithecia costalis",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Eupithecia kamburonga",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Eupithecia melanolopha ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Eupithecia mundiscripta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Fascellina albicordis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Fascellina altiplagiata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Fascellina plagiata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Fritillerinnys clathraria",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Garaeus altapicata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Garaeus apicata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Garaeus u-lucens ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Gasterocome pannosaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Godonela avitusaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Godonela nora",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Gymnoscelis fasciata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Herochroma urapteraria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Heterolocha polymorphoides ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypochrosis albodecorata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypochrosis binexata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypochrosis cryptopyrrhata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypochrosis hyadaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypochrosis sternaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypochrosis waterstradti ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypocometa clauda ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypocometa leptomita ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypocometa titanis",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypomecis glochinophora ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Hypomecis lioptilaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Idaea themeropis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Idiochlora berwicki ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Idiochlora stictogramma",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Krananda semihyalina",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Lassaba vinacea ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Lomographa luciferata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Lophobates mesotoechia",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "lophophelma erionoma ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "lophophelma luteipes ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "lophophelma rubroviridata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "lophophelma vigens ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Luxiaria amasa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Luxiaria emphatica ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Luxiaria hyalodela ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Luxiaria mitorrhaphes ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Luxiaria subrasata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Luxiaria tephrosaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Maxates thetydaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Maxates waterstradti",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Milionia fulgida ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Milionia pendleburyi ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Mixochlora vittata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Myrioblephara bifida ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Myrioblephara geniculata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Myrioblephara simplaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Nadagara synocha",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Necyopa chloana",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Necyopa subtriangula",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Noreia anacardium ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Omiza herois",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Omiza lycoraria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Onagrodes oosyndica ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Organopoda cnecosticta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ornithospila submonstrans ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ornithospila succincta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Orthocabera similaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ourapteryx claretta",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ourapteryx incaudata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ourapteryx picticaudata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Oxymacaria temeraria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ozola apparata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ozola falcipennis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Ozola submontana",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Papuarisme lagadani",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Papuarisme murudensis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Papuarisme submontana ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Paramaxates posterecta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila chlorocampsis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila coelica ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila eurystalides ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila luteata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila palpata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila rubrifusa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila rufogrisea ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila sayata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pasiphila subpalpata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pelagodes falsaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Peratophyga sobrina ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Peratophyga trigonata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Perixera absconditaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Petelia delostigma",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Petelia medardaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Phthonoloba altissima ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Phthonoloba caliginosa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Phthonoloba lutosa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Phthonoloba stigmatephora ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pingasa lariaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pingasa rubimontana ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pingasa ruginaria",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pingasa tapungkanana",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Platycerota balia ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Platycerota percrinita",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Plutodes flavescens ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Poecilasthena character ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Poecilasthena nubivaga",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pogonopygia nigralbata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pogonopygia xanthura ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pomasia salutaris",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Problepsis borneamagna ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Problepsis plenorbis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Prochasma dentilinea ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pseudeuchromia maculifera ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Pseudocollix hyperythra ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Psilalcis bisinuata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Racotis boarmiaria",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Sarcinodes reductatus",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Sauris denigrata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Sauris usta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Scopula leucopis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Scopula pauperata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Scopula voluptaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Spaniocentra apatelloides ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Syncosmia discisuffusa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Syncosmia eurymesa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Syncosmia layanga ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Syncosmia xanthocomes ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Synegia decolorata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Synegia obscura ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Synegia ocellata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Synegia punctinervis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Synegiodes diffusifascia",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tanaorhinus rafflesii ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tasta elliptica ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tasta montana ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Thalassodes curiosa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Timandra punctinervis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Trichopterigia sanguinipunctata",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tripteridia dinosia ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tripteridia latistriga ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tripteridia subcomosa ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tristeirometa bathylima",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tristeirometa bostryx ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tympanota arfakensis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tympanota ceramica ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Tympanota erecta ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Xandrames latiferaria",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Xanthorhoe liwagu ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Xanthorhoe mesilauensis ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Xerodes ypsaria ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Zamarada baliata ",
+  "locality": "Mount Kinabalu, Sabah",
+  "region": "Asia"
+ },
+ {
+  "name": "Achillea millefolium",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Aconitum lycoctonum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Agrostis capillaris",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Agrostis mertensii",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Alchemilla alpina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Alchemilla vulgaris",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Andromeda polifolia",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Angelica archangelica",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Antennaria alpina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Antennaria dioica",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Anthoxanthum odoratum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Arctostaphylos uva-ursi",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Arctous alpinus",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Astragalus alpinus",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Avenella flexuosa",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Bartsia alpina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Beckwithia glacialis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Betula nana",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Betula pubescens",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Bistorta vivipara",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Calamagrostis phragmitoides",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Campanula rotundifolia",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex bigelowii",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex canescens",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex dioica",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex lachenalii",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex nigra",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex paupercula",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex rostrata",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex rupestris",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex saxatillis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Carex vaginata",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Cerastium alpinum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Cerastium cerastoides",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Cerastium fontanum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Chamerion angustifolium",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Cirsium heterophyllum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Comarum palustre",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Deschampsia cespitosa",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Empetrum nigrum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Equisetum arvense",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Equisetum fluviatile",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Eriophorum angustifolium",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Euphrasia wettsteinii",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Festuca oving",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Festuca rubra",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Geranium sylvaticum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Geum rivale",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Gymnocarpium dryopteris",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Hieracium sp.",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Juncus biglumis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Juncus trifidus",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Juniperus communis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Leontodon autumnalis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Loiseleuria procumbens",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Luzula confusa",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Luzula multiflora",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Luzula pilosa",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Luzula spicata",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Melampyrum sylvaticum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Myosotis decumbens",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Nardus stricta",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Omalotheca norvegica",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Omalotheca supina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Oxycoccus sp.",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Oxyria digyna",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Pediculari oederi",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Pedicularis lapponica",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Pedicularis sceptrum-carolinum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Phleum alpinum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Phyllodoce caerulea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Poa alpina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Poa pratensis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Potentilla crantzii",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Pulsatilla vernalis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Pyrola minor",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Ranunculus acris",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Rhinathus minor",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Rhodiola roea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Rubus saxatilis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Rumex acetosa",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Salix glauca",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Salix herbacea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Salix lanata",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Salix lapponum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Salix myrsinites",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Saussurea alpina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Saxifraga stellaris",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Selaginella selaginoides",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Sibbaldia procumbens",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Silene acaulis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Solidago viraurea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Stellaria borealis",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Taraxacum sp.",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Trientalis europaea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Trifolium repens",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Trisetum spicatum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Vaccinium myrtillus",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Vaccinium uliginosum",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Vaccinium vitis-idaea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Vahlodea atropurpurea",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Valeriana sambucifolia",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Veronica alpina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Viola caina",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Viola epipsila",
+  "locality": "Geovekst and Norwegian municipalities",
+  "region": "Europe"
+ },
+ {
+  "name": "Adelomyia melanogenys",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Aglaiocercus kingi",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Arremon brunneinucha",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Aulacorhynchus derbianus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Basileuterus coronatus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Basileuterus tristriatus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Campylorhamphus trochilirostris",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Catharus dryas",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Cercomacra nigrescens",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Cercomacra serva",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Chlorospingus ophtalmicus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Chlorothraupis carmioli",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Coeligena coeligena",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Conopophaga castaneiceps",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Diglossa caerulescens",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Diglossa glauca",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Dixiphia pipra",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Doryfera ludovicae",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Dysithamnus mentalis",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Entomodestes leucotis",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Euphonia xanthogaster",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Glyphorynchus spirurus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Haplophaedia aureliae",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Heliodoxa branickii",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Heliodoxa leadbeateri",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Henicorhina leucophrys",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Iridisornis analis",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Knipolegus poecilurus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Lepidothrix caeroleocapilla",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Lepidothrix coronata",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Mionectes olivaceus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Mionectes striaticollis",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Myiarchus cephalotes",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Myiotriccus ornatus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Myrmotherula schisticolor",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Ochreatus underwoodi",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Ochthoecha pulchella",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Phaethornis superciliosus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Philydor erythrocercum",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Phylloscartes ventralis",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Pipra chloromeros",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Pipreola riefferii",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Platyrinchus mystaceus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Premnoplex brunnescens",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Pyrrhomyias cinnamomea",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Selenidera reindwartii",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Syndactyla rufosuperciliata",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Syndactyla subalaris",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Tangara vassorii",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Thalurania furcata",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Threnetes leucurus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Trichothraupis melanops",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Turdus serranus",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Xenopipo unicolor",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Xiphorhynchus triangularis",
+  "locality": "Huanuco",
+  "region": "South America"
+ },
+ {
+  "name": "Ailuroedus melanotis",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Aleadryas rufinucha",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Amblyornis macgregoriae",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Astrapia stephaniae",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Caligavis subfrenata",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Charmosyna pulchella",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Cnemophilus loriae",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Coracina montana",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Crateroscelis robusta",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Epimachus fastosus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Erythrura trichroa ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Eugerygone rubra ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Eulacestoma nigropectus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Gallicolumba beccarii",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Geoffroyus simplex",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Gerygone ruficollis",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Ifrita kowaldi",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Lophorina superba",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Machaerirhynchus nigripectus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Melanocharis striativentris",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Melanocharis versteri",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Melanorectes nigrescens",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Melidectes rufocrissalis",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Melidectes torquatus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Meliphaga orientalis",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Melipotes fumigatus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Microeca papuana ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Myzomela rosenbergii",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Oreocharis arfaki",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Oreopsittacus arfaki",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Pachycephala schlegelii",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Pachycephala soror",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Pachycephalopsis poliosoma ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Peneothello cyanus ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Peneothello sigillata ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Phylloscopus maforensis ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Poecilodryas albonotata ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Psittacella brehmii",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Ptilinopus rivoli",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Ptiloprora guisei",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Ptilorrhoa leucosticta",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Rhagologus leucostigma",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Rhipidura albolimbata",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Rhipidura atra",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Rhipidura brachyrhyncha",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Sericornis arfakianus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Sericornis nouhuysi",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Sericornis papuensis",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Sericornis perspicillatus",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Syma megarhyncha",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Symposiachrus axillaris",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Timeliopsis fulvigula",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Tregellasia leucops ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Zoothera heinei ",
+  "locality": "Mt. Karimui northwestern ridge",
+  "region": "Oceania (New Guinea))"
+ },
+ {
+  "name": "Acrossus depressus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Acrossus luridus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Amidorus immaturus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Amidorus obscurus",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Ammoecius elevatus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Ammoecius elevatus",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Anoplotrupes stercorosus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Aphodius fimetarius",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Aphodius foetidus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Aphodius foetidus",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Aphodius satyrus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bubas bubalus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Caccobius schreberi",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Calamosternus granarius",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Colobopterus erraticus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Esymus pusillus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Esymus pusillus",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Euheptaulacus carinatus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Euheptaulacus carinatus",
+  "locality": "Sierra Nevada",
+  "region": "Europe"
+ },
+ {
+  "name": "Eunoticellus fulvus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Euonthophagus amyntas",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Euonthophagus gibbosus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Geotrupes stercorarius",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Geotrupes stercorarius",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Melinopterus abeillei",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Melinopterus abeillei",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Melinopterus prodromus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Melinopterus prodromus",
+  "locality": "Sierra Nevada",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus baraudi",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus coenobita",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus coenobita",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus coenobita",
+  "locality": "Sierra Nevada",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus fracticormi",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus furcatus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus grossepunctatus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus grossepunctatus",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus joannae",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus joannae",
+  "locality": "south-western\u00a0Alps",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus lemur",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus ovatus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus ovatus",
+  "locality": "Sierra Nevada",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus similis",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus taurus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus vacca",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Onthophagus verticornis",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Oromus alpinus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Otophorus haemorrhoidalis ",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Sisyphus schaefferi",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Teuchestes fossor",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Trichonotulus scrofa",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Trypcopris vernalis",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus hortorum",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus humilis",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus jonellus",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus lapidarius",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus lucorum",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus mesomelas",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus monticola",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus muscorum",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus pascuorum",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus pratorum",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus ruderarius",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus sichelii",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus soroeensis",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus sylvarum",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus terrestris",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Bombus wurflenii",
+  "locality": "Asturias",
+  "region": "Europe"
+ },
+ {
+  "name": "Aglyptodactylus madagascariensis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Amphiglossus melanopleura",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Amphiglosus tsaratananensis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Blommersia cf. wittei",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Boophis anjanaharibensis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Boophis cf. burgeri",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Boophis marojeziensis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Boophis sp. A",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Brookesia lolontany",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Calumma cf. guillaumeti",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Calumma cf. linota",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Calumma guibe",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Calumma malthe",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Calumma peltierorum",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Calumma tsaratananensis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Gephyromantis asper",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Gephyromantis tandroka",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Guibemantis liber",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Guibemantis sp. A",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Mantidactylus cf. opiparis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Mantidactylus femoralis",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Phelsuma lineata puctualata",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Platypelis alticola",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Platypelis pollicaris",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Platypelis sp. F",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Platypelis sp. O",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Plethodontohyla guntherpetersi",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Plethodontohyla sp. P",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Spinomantis cf. peraccae",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Uroplatus sp. A",
+  "locality": "Tsaratanana Massif ",
+  "region": "Madagascar"
+ },
+ {
+  "name": "Acroneuria abnormis",
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "region": "North America"
+ },
+ {
+  "name": "Acroneuria abnormis",
+  "locality": "Appalachian Mountains in north Georgia",
+  "region": "North America"
+ },
+ {
+  "name": "Acroneuria zanthenes",
+  "locality": "Tennessee portion of Great Smoky Mountains National Park",
+  "region": "North America"
+ },
+ {
+  "name": "Acroneuria zanthenes",
+  "locality": "Appalachian Mountains in north Georgia",
+  "region": "North America"
+ },
+ {
+  "name": "Aphaenogaster picea",
+  "locality": "Appalachian Mountains in north Georgia",
+  "region": "North America"
+ },
+ {
+  "name": "Aphaenogaster rudis",
+  "locality": "Appalachian Mountains in north Georgia",
+  "region": "North America"
+ }
+]
