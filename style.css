@@ -39,6 +39,11 @@ div.intro {
   background-color: #1f1f14;
 }
 
+div.heatmap {
+  width: 100%;
+  float: right;
+}
+
 h1.header {
   padding: 15px 5px 0px 5px;
   font-family: Arial;
@@ -62,6 +67,7 @@ select {
 #svgBar {
   padding: 15px 15px 15px 15px;
   background-color: #1f1f14;
+  float: left;
 }
 
 #yAxis line, path{
@@ -79,4 +85,16 @@ select {
 .bargraph {
   width: 100%;
   background-color: #1f1f14;
+  height: 1000;
+}
+
+#svgHeat {
+  padding: 30px 10px 30px 30px;
+  width: 45%;
+  float: left;
+}
+
+li {
+  color: white;
+  font-family: Arial;
 }
