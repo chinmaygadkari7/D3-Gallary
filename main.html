@@ -16,10 +16,8 @@
         <select id="selectButtonMap1"></select>
         <p id="header", style="color: white">Timeframe</p>
         <select id="selectButtonMap2"></select>
-        <p>Climate change is affecting the environment all over the world. These
-          effects are observable and serious. Glaciers at the polar regions and
-          mountains are shrinking, sea levels are increasing, global temperature
-          is rising with longer and intense heat waves in various regions.</p>
+        <p class="info1"></p>
+        <p class="info2"></p>
       </div>
     </div>
     <div class="intro">
@@ -36,8 +34,21 @@
         According to the latest estimate, there are 8.7 million species on this
         planet (ScienceDaily, 2011). Among these species, 150-200 goes extinct
         every 24 hours (Huffington Post) making this a serious issue for
-        biodiversity, which needs attention from the public.</p>
+        biodiversity, which needs attention from the public. This visualisation report attempts to provide heighlight of dataset
+        created by merging data of various research and surveys conducted by
+        researchers at various locations.</p>
+
+        <h3 style="font-family: Arial; color: white; padding-left:20px;"> How To Read The Map</h3>
+      <p>Above map provides an overview of the locations
+        where these surveys for biodiversity in the region are conducted by researchers.
+        During research various bioclimatic factors are recored. Some of these
+        factors are visualised here to understand the climatic conditions at site and thier changes over the years.
+        Small dots presented on the map provides the exact location of the sites whereas circles represents the general
+        locality of these sites where these surveys are conducted. Hovering over the circles represents the location information and exact value of selected bioclimatic factor.
+        You can zoom in or out for your convinience to see more details.</p>
     </div>
+    <hr style="align: center; width: 80%; height:0.05px; margin-top:10px; margin-top:30px;"></hr>
+    <br>
     <div class="bargraph">
       <div style="width: 100%; padding-left: 30px;">
         <select id="selectButtonBar"></select>
@@ -46,10 +57,12 @@
        <svg id="svgBar"></svg>
      </div>
      <div style="float:left; width:50%">
-       <p>Climate change is affecting the environment all over the world. These
-         effects are observable and serious. Glaciers at the polar regions and
-         mountains are shrinking, sea levels are increasing, global temperature
-         is rising with longer and intense heat waves in various regions.</p>
+       <h3 style="font-family: Arial; color: white; padding-left:20px;">Understanding Bar Chart</h3>
+       <p>Bar chart provides a visual representation of extinction frequency of each species at surveyed
+          sites. This extinction rate is calculated by comparing the presence of the species
+          during historical surveys and modern surveys at each site. GIven range of extinction rate is between 0 to 1.
+          Dropdown menu provides option to visualise extinction rate of each individual species or view overall
+          extinction rate by their taxonomy. Hovering over each bar provides exact figure of extinction rate for that species.</p>
      </div>
     </div>
 
@@ -131,6 +144,25 @@
 
       svgMap.call(zoom);
 
+      function setText(selection1, selection2) {
+        if (selection1 == "meanTemp") {
+          d3.select(".info1").text("Average Temperature: Represents aggregate of average temperature (degree celsius) experienced in a year at each site during survey");
+        }
+        else {
+          d3.select(".info1").text("Average Percipitation: Represents aggregate of average rain (mm) experienced in a year at each site during survey");
+        }
+
+        if (selection2 == "historical") {
+          d3.select(".info2").text("Historical Survey: Represents the information from survey conducted at a site in past");
+        }
+        else if (selection2 == "modern") {
+          d3.select(".info2").text("Modern Survey: Represents the information from survey conducted at a site in present");
+        }
+        else {
+          d3.select(".info2").text("Absolute Change: Represents the absolute change in climatic conditions at site between two surveys");
+        }
+      }
+
       const BioOptions = {
         "Average Temperature": "meanTemp",
         "Average Percipitation": "meanPerc"
@@ -143,9 +175,10 @@
       }
 
       var selectedBioOption = "Average Temperature";
-      var selectedTimeOption = "Historical survey"
+      var selectedTimeOption = "Historical survey";
 
       mapSelection(climate_data, timeOptions[selectedTimeOption], BioOptions[selectedBioOption])
+      setText(BioOptions[selectedBioOption], timeOptions[selectedTimeOption])
 
       d3.select("#selectButtonMap1")
         .selectAll('Options')
@@ -160,6 +193,7 @@
           selectedBioOption = d3.select(this).property("value")
           d3.select("#info").remove();
           mapSelection(climate_data, timeOptions[selectedTimeOption], BioOptions[selectedBioOption]);
+          setText(BioOptions[selectedBioOption], timeOptions[selectedTimeOption])
         });
 
      d3.select("#selectButtonMap2")
@@ -175,6 +209,7 @@
          selectedTimeOption = d3.select(this).property("value")
          d3.select("#info").remove();
          mapSelection(climate_data, timeOptions[selectedTimeOption], BioOptions[selectedBioOption]);
+         setText(BioOptions[selectedBioOption], timeOptions[selectedTimeOption])
        });
     }
 
@@ -193,7 +228,7 @@
                         .range([5, 50]);
 
       let percColorScale = d3.scaleSequential(d3.interpolateBlues)
-                             .domain([0, 4000])
+                             .domain([-1000, 3500])
 
      // define tooltip
       var tooltip = d3.selectAll("g")
@@ -262,7 +297,7 @@
         "Squamate"
       ];
 
-      var colorScale = d3.scaleOrdinal(d3.schemeSet2)
+      var colorScale = d3.scaleOrdinal(d3.schemeCategory10)
                          .domain(barOptions.slice(1))
 
       var selectData = data["taxonomy"];
@@ -365,17 +400,17 @@
                .attr("x", function(d) { return x(d["name"]); })
                .attr("width", x.bandwidth())
                .attr("y", function(d) { return y(d["ext_freq"]); })
-               .attr("height", function(d) { return barHeight - y(d["ext_freq"]) });
+               .attr("height", function(d) { return barHeight - y(d["ext_freq"]) })
+               .style("transition-duration", "1s");
 
-    function setFill() {
       if (selectedOption == "All Species") {
         bar.attr("fill", function(d) { return barColor(d["name"])});
       }
       else {
         bar.attr("fill", barColor);
       }
-    }
-    setFill();
+
+
 
     barGroup.select("#xAxis").selectAll('.tick').style("opacity", 0);
 
@@ -383,7 +418,8 @@
       var target = d3.select(d3.event.target);
       var data = target.data()[0];
       var selected = d3.select(this)
-      selected.attr("fill", "red");
+      bar.style("opacity", 0.05)
+      selected.style("opacity", 1)
       tooltip.style("opacity", 0.7);
       tooltip.html("Name: " + data.name + "<br>"
                    + "Extinction rate:" + data["ext_freq"].toFixed(2))
@@ -394,7 +430,7 @@
     });
 
     bar.on("mouseout", function(d){
-      setFill();
+      bar.style("opacity", 1);
       tooltip.style("opacity", 0);
 
     });

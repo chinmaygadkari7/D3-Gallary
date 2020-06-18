@@ -10,6 +10,8 @@ p {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+
 div.worldmap {
   width: 100%;
   background-color: #1f1f14;
@@ -21,6 +23,7 @@ p#header {
   font-style: bold;
 
 }
+
 div.map {
   float: left;
   width: 80%;
