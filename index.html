@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="utf-8">
+    <title>Main</title>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css"></script>
+  </head>
+  <body>
+    <div class="worldmap">
+      <div class="map">
+        <svg id="svgMap"></svg>
+      </div>
+      <div>
+        <p id="header", style="color: white">Climate Paramter: </p>
+        <select id="selectButtonMap1"></select>
+        <p id="header", style="color: white">Timeframe</p>
+        <select id="selectButtonMap2"></select>
+        <p class="info1"></p>
+        <p class="info2"></p>
+      </div>
+    </div>
+    <div class="intro">
+      <h1 class="header"> Species Extinction </h1>
+      <p>Climate change is affecting the environment all over the world. These
+        effects are observable and serious. Glaciers at the polar regions and
+        mountains are shrinking, sea levels are increasing, global temperature
+        is rising with longer and intense heat waves in various regions.</p>
+      <p>One of the effects of these changes is occurring on plant and animal
+        species on this planet. Due to the climate change, animal's natural habitat
+        is being destroyed, making them fight for their survival and
+        hence they migrate to another region. These changes are also affecting
+        the plants, altering the natural conditions required for them to grow.
+        According to the latest estimate, there are 8.7 million species on this
+        planet (ScienceDaily, 2011). Among these species, 150-200 goes extinct
+        every 24 hours (Huffington Post) making this a serious issue for
+        biodiversity, which needs attention from the public. This visualisation
+        report attempts to provide highlight of dataset created by merging data
+        of various research and surveys conducted by researchers at various locations.</p>
+      <p>The visaulisation depicts the climate data collected during surveys and changes in it over a period.
+      It also shows how these climate changes has affected the species surveyd at the location and provides
+     summary of analysis of their extinction rates over the years.</p>
+
+        <h3 style="font-family: Arial; color: white; padding-left:20px;"> How To Read The Map</h3>
+      <p>Above map provides an overview of the locations
+        where these surveys for biodiversity in the region are conducted by researchers.
+        During research various bioclimatic factors are recored. Some of these
+        factors are visualised here to understand the climatic conditions at site and thier changes over the years.
+        Small dots presented on the map provides the exact location of the sites whereas circles represents the general
+        locality of these sites where these surveys are conducted. Hovering over the circles represents the location information and exact value of selected bioclimatic factor.
+        You can zoom in or out for your convinience to see more details.</p>
+    </div>
+    <hr style="align: center; width: 80%; height:0.05px; margin-top:10px; margin-top:30px;"></hr>
+    <br>
+    <div class="bargraph">
+      <div style="width: 100%; padding-left: 30px;">
+        <select id="selectButtonBar"></select>
+      </div>
+       <svg id="svgBar"></svg>
+       <div>
+         <h3 style="font-family: Arial; color: white; padding-left:20px;">Understanding Bar Chart</h3>
+         <p>Bar chart provides a visual representation of extinction frequency of each species at surveyed
+          sites. This extinction rate is calculated by comparing the presence of the species
+          during historical surveys and modern surveys at each site. GIven range of extinction rate is between 0 to 1.
+          Dropdown menu provides option to visualise extinction rate of each individual species or view overall
+          extinction rate by their taxonomy. Hovering over each bar provides exact figure of extinction rate for that species.</p>
+      </br></br></br></br></br></br></br></br>
+      </div>
+    </div>
+    <div class="heatmap">
+      <svg id='svgHeat'></svg>
+      <div>
+      </br></br>
+        <h3 style="font-family: Arial; color: white; padding-left:20px;">Understanding Heatmap</h3>
+        <p>Heat Map provides a visual representation of absolute changes in BioClimatic
+          variables recorded during surveys in detail.Bioclimatic variables are important
+          to understand complete climate situation in an area. Understanding thse changes may
+          help us understand how they are linked to species extinction in that area.
+        Detailed description of these changes is as below</p>
+        <ul>
+          <li>BIO1: Annual Mean Temperature</li>
+          <li>BIO2: Mean Diurnal Range (Mean of monthly (max temp - min temp))</li>
+          <li>BIO3: Isothermality (BIO2/BIO7) (×100)</li>
+          <li>BIO4: Temperature Seasonality (standard deviation ×100)</li>
+          <li>BIO5: Max Temperature of Warmest Month</li>
+          <li>BIO6: Min Temperature of Coldest Month</li>
+          <li>BIO7: Temperature Annual Range (BIO5-BIO6)</li>
+          <li>BIO8: Mean Temperature of Wettest Quarter</li>
+          <li>BIO9: Mean Temperature of Driest Quarter</li>
+          <li>BIO10: Mean Temperature of Warmest Quarter</li>
+          <li>BIO11: Mean Temperature of Coldest Quarter</li>
+          <li>BIO12: Annual Precipitation</li>
+          <li>BIO13: Precipitation of Wettest Month</li>
+          <li>BIO14: Precipitation of Driest Month</li>
+          <li>BIO15: Precipitation Seasonality (Coefficient of Variation)</li>
+          <li>BIO16: Precipitation of Wettest Quarter</li>
+          <li>BIO17: Precipitation of Driest Quarter</li>
+          <li>BIO18: Precipitation of Warmest Quarter</li>
+          <li>BIO19: Precipitation of Coldest Quarter</li>
+        </ul>
+
+     </div>
+    </div>
+
+
+  <script type="text/javascript">
+
+    const mapWidth = 1060;
+    const mapHeight = 580;
+
+    var svgMap = d3.select("#svgMap")
+                .attr("width", mapWidth)
+                .attr("height", mapHeight)
+                .style("background-color", "#1f1f14");
+
+    // Projection for map
+    var projection = d3.geoMercator()
+                       .scale(135)
+                       .center([0, 40])
+                       .translate([mapWidth / 2, mapHeight / 2]);
+
+    var svgBar = d3.select("#svgBar")
+                   .attr("width", 600)
+                   .attr("height", 300);
+
+   const margin = {"top": 0, "bottom": 20, "left": 50, "right": 20};
+   const barWidth = +svgBar.attr("width") - (margin.left + margin.right);
+   const barHeight = +svgBar.attr("height") - (margin.top + margin.bottom);
+
+   var barGroup = svgBar.append("g")
+              .attr("transform", "translate(" + margin.left + "," + 0 + ")");
+
+   Promise.all([
+       d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"),
+       d3.json("data.json"),
+       d3.json("climate_data.json"),
+       d3.json("species_data.json"),
+       d3.json("absolute_change.json")
+     ]
+   ).then(renderGraph)
+
+   function renderGraph(values) {
+     //main rendering function
+     renderMap(values);
+     renderBar(values[3]);
+     renderHeat(values[4]);
+   }
+
+   function renderMap(values){
+     // map rendering
+     var map = values[0];
+     var data = values[1];
+     var climate_data = values[2];
+     // Add map
+      svgMap.append("g")
+         .selectAll("path")
+         .data(map.features)
+         .enter()
+         .append("path")
+         .attr("d", d3.geoPath().projection(projection))
+         .attr("fill", "#ffffe6");
+
+      // add coordinates for all sites
+      var allSites = svgMap.append("g")
+                        .selectAll("circle")
+                        .data(data.location)
+                        .enter()
+                        .append("circle")
+                        .attr("cx", function(d){ return projection([d.Longitude, d.Latitude])[0] })
+                        .attr("cy", function(d){ return projection([d.Longitude, d.Latitude])[1] })
+                        .attr("r", "2px")
+                        .attr("fill", "red");
+
+      // zoom
+      var zoom = d3.zoom()
+                   .scaleExtent([1, 8])
+                   .on('zoom', function() {
+                     svgMap.selectAll("g")
+                        .attr('transform', d3.event.transform);
+                    });
+
+
+      svgMap.call(zoom);
+
+      function setText(selection1, selection2) {
+        if (selection1 == "meanTemp") {
+          d3.select(".info1").text("Average Temperature: Represents aggregate of average temperature (degree celsius) experienced in a year at each site during survey");
+        }
+        else {
+          d3.select(".info1").text("Average Percipitation: Represents aggregate of average rain (mm) experienced in a year at each site during survey");
+        }
+
+        if (selection2 == "historical") {
+          d3.select(".info2").text("Historical Survey: Represents the information from survey conducted at a site in past");
+        }
+        else if (selection2 == "modern") {
+          d3.select(".info2").text("Modern Survey: Represents the information from survey conducted at a site in present");
+        }
+        else {
+          d3.select(".info2").text("Absolute Change: Represents the absolute change in climatic conditions at site between two surveys");
+        }
+      }
+
+      const BioOptions = {
+        "Average Temperature": "meanTemp",
+        "Average Percipitation": "meanPerc"
+      };
+
+      const timeOptions = {
+        "Historical survey": "historical",
+        "Modern survey": "modern",
+        "Absolute change": "absolute"
+      }
+
+      var selectedBioOption = "Average Temperature";
+      var selectedTimeOption = "Historical survey";
+
+      mapSelection(climate_data, timeOptions[selectedTimeOption], BioOptions[selectedBioOption])
+      setText(BioOptions[selectedBioOption], timeOptions[selectedTimeOption])
+
+      d3.select("#selectButtonMap1")
+        .selectAll('Options')
+        .data(Object.keys(BioOptions))
+        .enter()
+        .append('option')
+        .text(function (d) { return d })
+        .attr("value", function (d) { return d });
+
+      d3.select("#selectButtonMap1")
+        .on("change", function(d) {
+          selectedBioOption = d3.select(this).property("value")
+          d3.select("#info").remove();
+          mapSelection(climate_data, timeOptions[selectedTimeOption], BioOptions[selectedBioOption]);
+          setText(BioOptions[selectedBioOption], timeOptions[selectedTimeOption])
+        });
+
+     d3.select("#selectButtonMap2")
+       .selectAll('Options')
+       .data(Object.keys(timeOptions))
+       .enter()
+       .append('option')
+       .text(function (d) { return d })
+       .attr("value", function (d) { return d });
+
+     d3.select("#selectButtonMap2")
+       .on("change", function(d) {
+         selectedTimeOption = d3.select(this).property("value")
+         d3.select("#info").remove();
+         mapSelection(climate_data, timeOptions[selectedTimeOption], BioOptions[selectedBioOption]);
+         setText(BioOptions[selectedBioOption], timeOptions[selectedTimeOption])
+       });
+    }
+
+    function mapSelection(data, selectedTimeOption, selectedBioOption) {
+      //Map rendering based on selection of Bio factor
+      console.log("Rendering map for BIO selection", selectedBioOption, selectedTimeOption);
+
+      let tempScale = d3.scaleLinear()
+                        .domain([-5, 40])
+                        .range([5, 50]);
+      let tempColorScale = d3.scaleSequential(d3.interpolateMagma)
+                             .domain([-20, 40])
+
+      let percScale = d3.scaleLinear()
+                        .domain([0, 4000])
+                        .range([5, 50]);
+
+      let percColorScale = d3.scaleSequential(d3.interpolateBlues)
+                             .domain([-1000, 3500])
+
+     // define tooltip
+      var tooltip = d3.selectAll("g")
+                  .data(data)
+                  .enter()
+                  .append("div")
+                  .style("position", "absolute")
+                  .style("width", 100)
+                  .style("height", 100)
+                  .style("border-radius", "10px")
+                  .style("background", "#f3f1f1")
+                  .style("padding", "5px")
+                  .style("font-size", "12px")
+                  .style("opacity", 0);
+
+       var siteBioInfo = svgMap.append("g")
+                         .attr("id", "info")
+                         .selectAll("circle")
+                         .data(data)
+                         .enter()
+                         .append("circle")
+                         .attr("cx", function(d){ return projection([d.longitude, d.latitude])[0] })
+                         .attr("cy", function(d){ return projection([d.longitude, d.latitude])[1] })
+                         .style("opacity", 0.7)
+                         .style("transition-duration", "1s");
+
+        function setRadiusAndFill(){
+         if (selectedBioOption == "meanTemp") {
+           siteBioInfo.attr("r", function(d){ return tempScale(d[selectedTimeOption][selectedBioOption])})
+                      .attr("fill", function(d){ return tempColorScale(d[selectedTimeOption][selectedBioOption])});
+         }
+         else {
+           siteBioInfo.attr("r", function(d){ return percScale(d[selectedTimeOption][selectedBioOption])})
+                      .attr("fill", function(d){ return percColorScale(d[selectedTimeOption][selectedBioOption])});
+         }
+       }
+       setRadiusAndFill();
+
+       siteBioInfo.on("mouseover", function(d){
+         var target = d3.select(d3.event.target);
+         var data = target.data()[0];
+         var selected = d3.select(this);
+         selected.attr("r", +selected.attr("r") * 2)
+         tooltip.style("opacity", 0.2);
+         tooltip.html("Site: " + data.site + "<br>"
+                      + "Value:" + data[selectedTimeOption][selectedBioOption].toFixed(2))
+                .style("left", d3.event.pageX + "px")
+                .style("top", d3.event.pageY + "px");
+
+       });
+
+       siteBioInfo.on("mouseout", function(d){
+          setRadiusAndFill();
+          tooltip.style("opacity", 0);
+       });
+    }
+
+    function renderBar(data) {
+      const barOptions = [
+        "All Species",
+        "Plant",
+        "Insect",
+        "Bird",
+        "Amphibian",
+        "Squamate"
+      ];
+
+      var colorScale = d3.scaleOrdinal(d3.schemeCategory10)
+                         .domain(barOptions.slice(1))
+
+      var selectData = data["taxonomy"];
+      updateBar(selectData, "All Species", colorScale);
+
+      d3.select("#selectButtonBar")
+        .selectAll('Options')
+        .data(barOptions)
+        .enter()
+        .append('option')
+        .text(function (d){ return d })
+        .attr("value", function (d){ return d });
+
+      d3.select("#selectButtonBar").on("change", function(d) {
+        var selectedOption = d3.select(this).property("value")
+        barGroup.selectAll("*").remove();
+        if (selectedOption == "All Species"){
+          selectData = data["taxonomy"]
+          updateBar(selectData, selectedOption, colorScale);
+
+        }
+        else {
+          selectData = taxonomyFilter(data["species"], selectedOption)
+          updateBar(selectData, selectedOption, colorScale(selectedOption));
+        }
+        });
+
+    }
+
+    function taxonomyFilter(data, taxonomy) {
+      var filteredList = []
+      data.forEach((item, i) => {
+        if ((item["taxonomy"] == taxonomy) && (item["ext_freq"] != 0)) {
+          filteredList.push(item)
+        }
+      });
+
+      return filteredList;
+    }
+
+    function getKeys(data, key){
+      var keys = [];
+      data.forEach((item, i) => {
+        keys.push(item[key]);
+      });
+      return keys;
+    }
+
+    function updateBar(data, selectedOption, barColor){
+      console.log(data)
+      let x = d3.scaleBand()
+                .range([0, barWidth])
+                .padding(0.1)
+                .domain(getKeys(data, "name"));
+
+
+      let y = d3.scaleLinear()
+                .rangeRound([barHeight, 0])
+                .domain([0, d3.max(data, function (d) { return d["ext_freq"]})]);
+
+      // define tooltip
+       var tooltip = d3.selectAll("g")
+                   .data(data)
+                   .enter()
+                   .append("div")
+                   .style("position", "absolute")
+                   .style("width", 100)
+                   .style("height", 100)
+                   .style("border-radius", "10px")
+                   .style("background", "#f3f1f1")
+                   .style("padding", "5px")
+                   .style("font-size", "12px")
+                   .style("opacity", 0);
+
+
+      var xAxis = barGroup.append("g")
+                   .attr("id", "xAxis")
+                   .attr("stroke", "white")
+                   .attr("transform", "translate(0," + barHeight + ")")
+                   .call(d3.axisBottom(x))
+                   .selectAll("text")
+                   .attr("transform", "translate(0, 20) rotate(-90)")
+
+      var yAxis = barGroup.append("g")
+                          .attr("id", "yAxis")
+                          .call(d3.axisLeft(y))
+                          .append("text")
+                          .attr("transform", "translate(20, 20) rotate(-90)")
+                          .attr("text-anchor", "end")
+                          .style("font-family", "Arial")
+                          .style("font-size", "1em")
+                          .text("Extinction Frequency");
+
+    var bar = barGroup.selectAll(".bar")
+               .data(data)
+               .enter()
+               .append("rect")
+               .attr("class", "bar")
+               .attr("x", function(d) { return x(d["name"]); })
+               .attr("width", x.bandwidth())
+               .attr("y", function(d) { return y(d["ext_freq"]); })
+               .attr("height", function(d) { return barHeight - y(d["ext_freq"]) })
+               .style("transition-duration", "1s");
+
+      if (selectedOption == "All Species") {
+        bar.attr("fill", function(d) { return barColor(d["name"])});
+      }
+      else {
+        bar.attr("fill", barColor);
+      }
+
+
+
+    barGroup.select("#xAxis").selectAll('.tick').style("opacity", 0);
+
+    bar.on("mouseover", function(d) {
+      var target = d3.select(d3.event.target);
+      var data = target.data()[0];
+      var selected = d3.select(this)
+      bar.style("opacity", 0.05)
+      selected.style("opacity", 1)
+      tooltip.style("opacity", 0.7);
+      tooltip.html("Name: " + data.name + "<br>"
+                   + "Extinction rate:" + data["ext_freq"].toFixed(2))
+             .style("left", d3.event.pageX + "px")
+             .style("top", d3.event.pageY + "px");
+
+
+    });
+
+    bar.on("mouseout", function(d){
+      bar.style("opacity", 1);
+      tooltip.style("opacity", 0);
+
+    });
+
+    }
+
+    function renderHeat(data){
+      const marginHeat = 30
+      const width = 512;
+      const height = 512;
+
+      const marginWidth = width - (marginHeat * 2);
+      const marginHeight = height - (marginHeat * 2);
+
+      var svg = d3.select("#svgHeat")
+                  .attr("width", width)
+                  .attr("height", height)
+                  .append("g")
+                  .attr("transform", "translate(" + marginHeat + "," + marginHeat + ")");
+
+      var locality = d3.set(getKeys(data, 'locality')).values();
+      var bioFactor = d3.set(getKeys(data, 'bio')).values();
+
+      var x = d3.scaleBand()
+                .range([ 0, marginWidth ])
+                .domain(locality)
+                .padding(0.01);
+
+      svg.append("g")
+         .attr("id", "xAxis")
+         .attr("stroke", "white")
+         .attr("transform", "translate(0," + marginHeight + ")")
+         .call(d3.axisBottom(x))
+         .selectAll("text")
+         .attr("transform", "translate(0, 200) rotate(-90)");
+
+
+     var y = d3.scaleBand()
+               .range([marginHeight, 0 ])
+               .domain(bioFactor)
+               .padding(0.01);
+
+     svg.append("g")
+        .attr("id", "yAxis")
+        .call(d3.axisLeft(y));
+
+    var mapColor = {
+      'Bio1':d3.scaleSequential(d3.interpolateYlOrRd).domain([0, 2]),
+      'Bio2':d3.scaleSequential(d3.interpolateYlOrRd).domain([-2, 1]),
+      'Bio3':d3.scaleSequential(d3.interpolateYlOrRd).domain([-4, 4]),
+      'Bio4':d3.scaleSequential(d3.interpolateYlOrRd).domain([-1, 1]),
+      'Bio5':d3.scaleSequential(d3.interpolateYlOrRd).domain([-1, 2]),
+      'Bio6':d3.scaleSequential(d3.interpolateYlOrRd).domain([-1, 5]),
+      'Bio7':d3.scaleSequential(d3.interpolateYlOrRd).domain([-3, 2]),
+      'Bio8':d3.scaleSequential(d3.interpolateYlOrRd).domain([-4, 6]),
+      'Bio9':d3.scaleSequential(d3.interpolateYlOrRd).domain([-4, 5]),
+      'Bio10':d3.scaleSequential(d3.interpolateYlOrRd).domain([-1, 2]),
+      'Bio11':d3.scaleSequential(d3.interpolateYlOrRd).domain([-1, 2]),
+      'Bio12':d3.scaleSequential(d3.interpolateYlOrRd).domain([-246, 211]),
+      'Bio13':d3.scaleSequential(d3.interpolateYlOrRd).domain([-47, 69]),
+      'Bio14':d3.scaleSequential(d3.interpolateYlOrRd).domain([-17, 113]),
+      'Bio15':d3.scaleSequential(d3.interpolateYlOrRd).domain([-16, 14]),
+      'Bio16':d3.scaleSequential(d3.interpolateYlOrRd).domain([-91, 141]),
+      'Bio17':d3.scaleSequential(d3.interpolateYlOrRd).domain([-57, 116]),
+      'Bio18':d3.scaleSequential(d3.interpolateYlOrRd).domain([-156, 190]),
+      'Bio19':d3.scaleSequential(d3.interpolateYlOrRd).domain([-81, 198])
+    }
+
+    var xHeat = svg.selectAll()
+                   .data(data)
+                   .enter()
+                   .append("rect")
+                   .attr("x", function(d) { return x(d.locality) })
+                   .attr("y", function(d) { return y(d.bio) })
+                   .attr("width", x.bandwidth())
+                   .attr("height", y.bandwidth())
+                   .style("fill", function(d) { return mapColor[d.bio](d.change)})
+                   .style("transition-duration", "1s");
+
+   // define tooltip
+    var tooltip = d3.selectAll("g")
+                .data(data)
+                .enter()
+                .append("div")
+                .style("position", "absolute")
+                .style("width", 100)
+                .style("height", 100)
+                .style("border-radius", "10px")
+                .style("background", "#f3f1f1")
+                .style("padding", "5px")
+                .style("font-size", "12px")
+                .style("opacity", 0);
+
+    xHeat.on("mouseover", function(d) {
+      var target = d3.select(d3.event.target);
+      var data = target.data()[0];
+      var selected = d3.select(this);
+      xHeat.attr("opacity", 0.1);
+      selected.attr("opacity", 1);
+      tooltip.style("opacity", 0.2);
+      tooltip.html("Locality: " + data.locality + "<br>" + "BIO:" + data.bio+ "<br>" + "Value:" + data.change)
+             .style("left", d3.event.pageX + "px")
+             .style("top", d3.event.pageY + "px");
+           });
+
+    xHeat.on("mouseout", function(d) {
+      xHeat.attr("opacity", 1);
+      tooltip.style("opacity", 0);
+    });
+
+
+
+    }
+
+  </script>
+  </body>
+</html>
